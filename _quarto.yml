@@ -1,0 +1,29 @@
+project:
+  type: "website"
+
+
+bibliography: "references.bib"
+
+
+website:
+  title: "NASA Openscapes Team Culture"
+  repo-url: &repo-url "https://github.com/mfisher87/presentation-nasa-openscapes-team-culture"
+  repo-actions: ["edit", "issue"]
+
+
+  navbar:
+    left:
+      - text: "Slides"
+        file: "slides.md"
+    right:
+      - icon: "github"
+        aria-label: "GitHub"
+        href: *repo-url
+
+
+format:
+  html:
+    theme: "cosmo"
+    css: "styles.css"
+    toc: true
+    from: "markdown+emoji"
