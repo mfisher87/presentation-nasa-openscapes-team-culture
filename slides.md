@@ -6,6 +6,21 @@ institute: "Openscapes Champions Program<br>CC-BY Openscapes"
 format:
   revealjs:
     footer: "[Home](/)"
+    slide-number: true
+title-slide-attributes:
+  data-notes: |
+    Introduce self. E.g. (scroll down):
+
+    * I'm not going to screen share the slides, but please follow along by clicking the
+      link to the slides in the notes. While you're doing that, I'll introduce myself.
+    * Research software engineer
+    * NASA Openscapes Mentor team member since mid-late 2023
+    * Excited about psychological safety because I've experienced both safe and unsafe
+      environments and seen how drastically it can impact team health and outcomes. I
+      want to move more personal experiences towards psychological safety.
+    * A lot of my work has been done for me; the content that follows was authored by
+      Tara Robertson, a diversity, equity, and inclusion consultant who helped form this
+      program.
 ---
 
 ## Overview
@@ -19,7 +34,13 @@ format:
 
 
 :::{.notes}
-Leslie Miley - the Ketchup Test: <https://gimletmedia.com/shows/reply-all/76h54l>
+* Research shows diverse teams are higher-performing, more profitable, and more
+  innovative. Dr. Katherine Phillips' article "How Diversity Makes us Smarter" in
+  Scientific American is a highly-recommended resource to learn more about this concept.
+  _TODO: How to link this to psychological safety?_
+* We're going to talk more about why psychological safety is critical, not just
+  important, for effective teams, and what actions you can take to boost psychological
+  safety on your team.
 :::
 
 
@@ -35,16 +56,42 @@ Leslie Miley - the Ketchup Test: <https://gimletmedia.com/shows/reply-all/76h54l
 
 _TODO: Cite_
 
+:::{.notes}
+What is psychological safety?
+
+A shared belief that I won't face punishment or humiliation by my peers for taking
+interpersonal risks like pointing out mistakes, sharing a wild idea, or asking a
+question I think may be perceived as "dumb".
+:::
+
 
 ## What is psychological safety?
 
 * It's not about avoiding conflict or being "nice"
 * Do you feel safe to speak up with a concern or wildly creative idea? Or telling the
   presenter they forgot to share their screen?
-* Examples: health care, flight operations, science, data science
-* It takes time and consistency to build trust
+* Examples: health care,
+  [aviation](https://www.forbes.com/sites/juliekratz/2024/03/27/the-boeing-leadership-shakeup-is-a-cautionary-tale-in-psychological-safety/?sh=270895f015a4),
+  science, data science
 
 :::{.notes}
+* Not about being "nice" or avoiding conflict, but being "honest" and "kind".
+* A feeling that it's OK to speak up. Especially to those more senior or experienced or
+  in a position of power.
+* Have you ever felt like you saw a problem on the horizon? Did you feel safe raising
+  that problem to a person above you who might be negatively impacted? 
+* Issues with quality on Boeing aircraft have been in the news lately, and the link on
+  this slide will take you to an article that points to poor psychological safety as a
+  likely culprit.
+* Health care: A nurse notices what looks like a dosage mistake, but isn't certain. Does
+  he call an off-duty doctor and risk admonishment for interrupting a romantic dinner?
+  If the doctor hasn't established an environment that is psychologically safe, maybe
+  not.
+* Science: _TODO_
+* Data science: _TODO_
+
+_TODO: Original speaker notes below, but who is Michael? :) Adapt?_
+
 <https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/>
 
 Share story about Michael when I messed up. “I don’t have line of sight on that” and
@@ -53,33 +100,102 @@ invitation to bring problems to him.
 :::
 
 
+## It takes time and consistency to build trust
+
+![@edmonson_2014_ted, TEDx talk](/assets/edmondson-avoidance-strategies.png)
+
+:::{.notes}
+I think it's a pretty common experience to feel uncomfortable speaking up in certain
+environments. It's very easy to avoid the negative emotions associated with looking
+ignorant, incompetent, intrusive, or negative. But are those easy behaviors good for our
+teams?
+
+We want people to do the hard thing here, and that takes an investment in culture to
+make the "hard but right" path look less dangerous.
+
+You may currently be experiencing or have positive memories of being on a team where
+this was the case, and perhaps it felt like the team had a "magic sauce" that enabled
+the team to communicate freely, have fun, do their best work, and not feel intimidated
+or defensive. This is a big payoff for a moderate investment!
+:::
+
+
 ## Psychological safety and accountability are not in conflict
 
-![@edmonson_2014_ted, TEDx talk. The "learning zone" is when psychological safety and accountability are high.](/assets/psych-safety-accountability-matrix.png){fig-alt="A matrix diagram defining 'Apathy Zone' when psychological safety and accountability are low, 'Anxiety Zone' when psychological safety is low and accountability is high, 'Comfort Zone' when psychological safety is high and accountability is low, and 'Learning Zone' when both are high."}
+![@edmonson_2014_ted, TEDx talk. The "learning zone" is when psychological safety and accountability are high.](/assets/edmondson-psych-safety-accountability-matrix.png){fig-alt="A matrix diagram defining 'Apathy Zone' when psychological safety and accountability are low, 'Anxiety Zone' when psychological safety is low and accountability is high, 'Comfort Zone' when psychological safety is high and accountability is low, and 'Learning Zone' when both are high."}
+
+:::{.notes}
+The concept of psychological safety can make some folks uncomfortable because they think
+it's in conflict with accountability and that increasing psychological safety will
+result in a decrease in quality.
+
+Dr. Amy Edmondson argues that psychological safety and accountability are independent
+variables.
+
+She emphasizes that the "Anxiety Zone" is the dangerous part of this diagram, with the
+potential for people to remain quiet even when they see disaster looming. With the
+addition of psychological safety, the same high-accountability environment can become
+incredibly effective.
+:::
+
+# Actions to boost psychological safety on your team
+
+_TODO: Emoji!!_
 
 
-## Actions to boost psychological safety on your team {.smaller}
+## Assess {.smaller}
 
-### Framing: Learning problem, _not_ an execution problem!
+Use [Amy Edmondson's 7-item
+questionnaire](https://www.uab.edu/reporter/resources/learning-development/item/8770-psychological-safety-is-the-secret-to-workplace-success):
+
+
+1. If you make a mistake on your team, is it held against you?
+1. Are you able to bring up problems and tough issues?
+1. Do people on the team sometimes reject others for being different?
+1. Is it safe to take a risk?
+1. Is it difficult to ask other team members for help?
+1. Do people on the team deliberately act to undermine your efforts?
+1. Are your unique skills and talents valued and utilized?
+
+_TODO: Cite_
+
+:::{.notes}
+You can ask these questions of yourself or your team to assess qualitatively where you are at with psychological safety.
+:::
+
+
+## Framing: Learning problem, _not_ an execution problem!
 
 > What can we learn from this?
 
 > We haven't been here before. We need everyone's brains and voices.
 
----
+:::{.notes}
 
-### Acknowledge your own fallibility
+:::
+
+
+## Acknowledge your own fallibility
 
 > What am I missing here?
 
 > What haven't I considered?
 
+:::{.notes}
 
-### Model curiosity
+:::
+
+
+## Model curiosity
 
 Ask lots of questions!
 
 [20 great open-ended questions](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
+
+:::{.notes}
+
+:::
+
 
 ---
 
@@ -97,13 +213,19 @@ From his [2022 NOAA seminar](https://docs.google.com/presentation/d/1c624mH3md8p
 
 ---
 
-_TODO_: This speaker note
+_TODO_: This story?
 
 > On June 23, 2019, a landslide in a remote and rugged canyon along the Fraser River,
 > north of Lillooet, was reported to the B.C. government. Over 85,000 cubic metres of rock
 > had sheared off a 125-metre-high cliff and fallen into the river. These huge pieces of
 > rock created a five-metre waterfall, which trapped migrating salmon below the slide.
 > <https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/fish/aquatic-habitat-management/fish-passage/big-bar-landslide-incident>
+
+## Data science branch shared values
+
+_TODO_
+
+<https://waterdata.usgs.gov/blog/fed-data-science-management/>
 
 
 ## Breakout room discussion
@@ -116,4 +238,18 @@ _TODO_: This speaker note
 :::
 
 
-## References
+# Bonus slides
+
+## TODO
+
+* Leslie Miley - the Ketchup Test: <https://gimletmedia.com/shows/reply-all/76h54l>
+    * Add as a reference, add a dedicated slide?
+
+## Learn more
+
+* Cat Hicks
+* Peggy Holman
+* ...
+
+
+# References
