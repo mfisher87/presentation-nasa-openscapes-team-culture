@@ -160,8 +160,8 @@ and more! (:wave: Sunny, if you're reading this)
 
 ## Assess {.smaller}
 
-Use [Amy Edmondson's 7-item
-questionnaire](https://www.uab.edu/reporter/resources/learning-development/item/8770-psychological-safety-is-the-secret-to-workplace-success):
+Use
+[Amy Edmondson's 7-item questionnaire](https://www.uab.edu/reporter/resources/learning-development/item/8770-psychological-safety-is-the-secret-to-workplace-success):
 
 
 1. If you make a mistake on your team, is it held against you?
