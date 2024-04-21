@@ -109,18 +109,12 @@ invitation to bring problems to him.
 ![@edmonson_2014_ted, TEDx talk](/assets/edmondson-avoidance-strategies.png)
 
 :::{.notes}
-I think it's a pretty common experience to feel uncomfortable speaking up in certain
-environments. It's very easy to avoid the negative emotions associated with looking
+It's natural, even instinctual, to avoid the negative emotions associated with looking
 ignorant, incompetent, intrusive, or negative. But are those easy behaviors good for our
 teams?
 
 We want people to do the hard thing here, and that takes an investment in culture to
 make the "hard but right" path look less dangerous.
-
-You may currently be experiencing or have positive memories of being on a team where
-this was the case, and perhaps it felt like the team had a "magic sauce" that enabled
-the team to communicate freely, have fun, do their best work, and not feel intimidated
-or defensive. This is a big payoff for a moderate investment!
 :::
 
 
@@ -130,17 +124,36 @@ or defensive. This is a big payoff for a moderate investment!
 
 :::{.notes}
 The concept of psychological safety can make some folks uncomfortable because they think
-it's in conflict with accountability and that increasing psychological safety will
-result in a decrease in quality.
+it's in **conflict with accountability** and that increasing psychological safety will
+result in a **decrease in quality**.
 
-Dr. Amy Edmondson argues that psychological safety and accountability are independent
-variables.
+Dr. Amy Edmondson argues that **psychological safety and accountability are independent
+variables**.
 
-She emphasizes that the "Anxiety Zone" is the dangerous part of this diagram, with the
-potential for people to remain quiet even when they see disaster looming. With the
-addition of psychological safety, the same high-accountability environment can become
-incredibly effective.
+I think it's a pretty common experience to feel uncomfortable speaking up in certain
+environments. I can remember a time when I was in the "Anxiety zone": I had worked hard
+in my free time to innovate on a widely-agreed-upon problem, but when I shared that work
+at the office, I was challenged about working on the problem without approval. This left
+me **unmotivated to continue a project that I was previously really jazzed about**.
+
+Dr. Edmonson emphasizes that **the "Anxiety Zone" is the truly dangerous part of this
+diagram**, with the potential for people to remain quiet even when they see disaster
+looming. With the addition of psychological safety, the same high-accountability
+environment can become incredibly effective.
+
+You may currently be experiencing or have **positive memories of being in the "Learning
+Zone"**, and perhaps it felt like the team had a "magic sauce" that enabled the team to
+communicate freely, have fun, do their best work, and not feel intimidated or defensive.
+This is a big payoff for a moderate investment!
+
+In my earlier anecdote about receiving a negative reaction to sharing my independent
+work, there's a happy ending. I re-shared that work in another community, and not only
+received a supportive response, I gained a new friend and collaborator on that project
+and more!
+
+(:wave: Sunny, if you're reading this)
 :::
+
 
 # Actions to boost psychological safety on your team
 
