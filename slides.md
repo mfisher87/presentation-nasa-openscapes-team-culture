@@ -127,8 +127,9 @@ The concept of psychological safety can make some folks uncomfortable because th
 it's in **conflict with accountability** and that increasing psychological safety will
 result in a **decrease in quality**.
 
-Dr. Amy Edmondson argues that **psychological safety and accountability are independent
-variables**.
+Dr. Edmondson argues that **psychological safety and accountability are independent
+variables**. She compares accountability to the gas pedal on a car, and lack of
+psychological safety to the brake pedal.
 
 I think it's a pretty common experience to feel uncomfortable speaking up in certain
 environments. I can remember a time when I was in the "Anxiety zone": I had worked hard
@@ -138,7 +139,8 @@ me **unmotivated to continue a project that I was previously really jazzed about
 
 Dr. Edmonson emphasizes that **the "Anxiety Zone" is the truly dangerous part of this
 diagram**, with the potential for people to remain quiet even when they see disaster
-looming.
+looming. In the gas pedal / brake pedal analogy, this is pressing them both at the same
+time.
 
 You may currently be experiencing or have **positive memories of being in the "Learning
 Zone"**, and perhaps it felt like the team had a "magic sauce" that enabled the team to
