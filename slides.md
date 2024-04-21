@@ -156,10 +156,7 @@ and more! (:wave: Sunny, if you're reading this)
 :::
 
 
-# Actions to boost psychological safety on your team
-
-_TODO: Emoji!!_
-
+# :chart_with_upwards_trend: Actions to boost psychological safety on your team
 
 ## Assess {.smaller}
 
