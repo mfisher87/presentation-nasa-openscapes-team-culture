@@ -19,9 +19,12 @@ title-slide-attributes:
     * Excited about psychological safety because I've experienced both safe and unsafe
       environments and seen how drastically it can impact team health and outcomes. I
       want to move more personal experiences towards psychological safety.
-    * A lot of my work has been done for me; the content that follows was authored by
-      Tara Robertson, a diversity, equity, and inclusion consultant who helped form this
-      program.
+    * I feel privileged to be teaching this lesson! I'm a beginner, but a lot of my work
+      has been done for me; the content that follows was originally authored by Tara
+      Robertson, a diversity, equity, and inclusion consultant who helped form this
+      program, and based on foundational work by Dr. Amy Edmondson, Professor of
+      Leadership at Harvard Business School.
+    * The final slide includes our references.
 ---
 
 ## Overview
