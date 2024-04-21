@@ -61,9 +61,9 @@ title-slide-attributes:
 :::{.notes}
 What is psychological safety?
 
-A shared belief that I won't face punishment or humiliation by my peers for taking
-interpersonal risks like pointing out mistakes, sharing a wild idea, or asking a
-question I think may be perceived as "dumb".
+A shared belief that I **won't face punishment or humiliation by my peers** for taking
+interpersonal risks like **pointing out mistakes, sharing a wild idea, or asking a
+question I think may be perceived as "dumb"**.
 :::
 
 
@@ -107,11 +107,11 @@ invitation to bring problems to him.
 ![@edmonson_2014_ted, TEDx talk](/assets/edmondson-avoidance-strategies.png)
 
 :::{.notes}
-It's natural, even instinctual, to avoid the negative emotions associated with looking
-ignorant, incompetent, intrusive, or negative. But are those easy behaviors good for our
-teams?
+**It's natural to avoid the negative emotions** associated with looking ignorant,
+incompetent, intrusive, or negative. But are those instinctual behaviors that come
+naturally **good for our teams?**
 
-We want people to do the hard thing here, and that takes an investment in culture to
+We want people to do the hard thing here, and that takes an **investment in culture** to
 make the "hard but right" path look less dangerous.
 :::
 
