@@ -159,23 +159,23 @@ and more! (:wave: Sunny, if you're reading this)
 ## Assess {.smaller}
 
 Use
-[Amy Edmondson's 7-item questionnaire](https://www.uab.edu/reporter/resources/learning-development/item/8770-psychological-safety-is-the-secret-to-workplace-success):
+[Amy Edmondson's 7-item assessment](https://hbr.org/2023/02/what-is-psychological-safety):
 
 
-1. If you make a mistake on your team, is it held against you?
-1. Are you able to bring up problems and tough issues?
-1. Do people on the team sometimes reject others for being different?
-1. Is it safe to take a risk?
-1. Is it difficult to ask other team members for help?
-1. Do people on the team deliberately act to undermine your efforts?
-1. Are your unique skills and talents valued and utilized?
+1. If you make a mistake on this team, it is not held against you.
+1. Members of this team are able to bring up problems and tough issues.
+1. People on this team sometimes accept others for being different.
+1. It is safe to take a risk on this team.
+1. It isn’t difficult to ask other members of this team for help.
+1. No one on this team would deliberately act in a way that undermines my efforts.
+1. Working with members of this team, my unique skills and talents are valued and utilized.
 
-_TODO: Cite_
+[@edmondson_1999]
 
 :::{.notes}
-You can ask these questions of yourself or your team to assess qualitatively where you are at with psychological safety.
+You can use these statements to evaluate how you or your teammates feel about psychological safety of your team.
 
-The rest of these tips are from Amy Edmondson's 2014 TED talk.
+The following tips are from Amy Edmondson's 2014 TED talk.
 :::
 
 
