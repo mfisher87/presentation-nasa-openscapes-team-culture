@@ -138,8 +138,7 @@ me **unmotivated to continue a project that I was previously really jazzed about
 
 Dr. Edmonson emphasizes that **the "Anxiety Zone" is the truly dangerous part of this
 diagram**, with the potential for people to remain quiet even when they see disaster
-looming. With the addition of psychological safety, the same high-accountability
-environment can become incredibly effective.
+looming.
 
 You may currently be experiencing or have **positive memories of being in the "Learning
 Zone"**, and perhaps it felt like the team had a "magic sauce" that enabled the team to
@@ -149,9 +148,9 @@ This is a big payoff for a moderate investment!
 In my earlier anecdote about receiving a negative reaction to sharing my independent
 work, there's a happy ending. I re-shared that work in another community, and not only
 received a supportive response, I gained a new friend and collaborator on that project
-and more!
+and more! (:wave: Sunny, if you're reading this)
 
-(:wave: Sunny, if you're reading this)
+### The learning zone is where we want to be
 :::
 
 
