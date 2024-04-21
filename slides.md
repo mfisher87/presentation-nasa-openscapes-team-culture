@@ -104,7 +104,7 @@ invitation to bring problems to him.
 
 ## It takes time and consistency to build trust
 
-![@edmonson_2014_ted, TEDx talk](/assets/edmondson-avoidance-strategies.png)
+![@edmondson_2014_ted, TEDx talk](/assets/edmondson-avoidance-strategies.png)
 
 :::{.notes}
 **It's natural to avoid the negative emotions** associated with looking ignorant,
@@ -118,7 +118,7 @@ make the "hard but right" path look less dangerous.
 
 ## Psychological safety and accountability are not in conflict
 
-![@edmonson_2014_ted, TEDx talk. The "learning zone" is when psychological safety and accountability are high.](/assets/edmondson-psych-safety-accountability-matrix.png){fig-alt="A matrix diagram defining 'Apathy Zone' when psychological safety and accountability are low, 'Anxiety Zone' when psychological safety is low and accountability is high, 'Comfort Zone' when psychological safety is high and accountability is low, and 'Learning Zone' when both are high."}
+![@edmondson_2014_ted, TEDx talk. The "learning zone" is when psychological safety and accountability are high.](/assets/edmondson-psych-safety-accountability-matrix.png){fig-alt="A matrix diagram defining 'Apathy Zone' when psychological safety and accountability are low, 'Anxiety Zone' when psychological safety is low and accountability is high, 'Comfort Zone' when psychological safety is high and accountability is low, and 'Learning Zone' when both are high."}
 
 :::{.notes}
 The concept of psychological safety can make some folks uncomfortable because they think
@@ -174,41 +174,44 @@ Use
 
 :::{.notes}
 You can use these statements to evaluate how you or your teammates feel about psychological safety of your team.
-
-The following tips are from Amy Edmondson's 2014 TED talk.
 :::
 
 
-## Framing: Learning problem, _not_ an execution problem!
+## More tips from Amy @edmondson_2014_ted
+
+* Framing work as a learning problem, _not_ an execution problem!
+
+. . .
+
+* Acknowledge your own fallibility
+
+. . .
+
+* Model curiosity
+    * [20 great open-ended questions](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
+
+:::{.notes}
+### Framing as learning
 
 > What can we learn from this?
 
 > We haven't been here before. We need everyone's brains and voices.
 
-:::{.notes}
 
-:::
+### Acknowledge fallibility
 
-
-## Acknowledge your own fallibility
+Ask yourself:
 
 > What am I missing here?
 
 > What haven't I considered?
 
-:::{.notes}
 
-:::
-
-
-## Model curiosity
+### Model curiosity
 
 Ask lots of questions!
 
-[20 great open-ended questions](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
-
-:::{.notes}
-
+The link on the slide helps provide open-ended alternatives to common questions.
 :::
 
 
