@@ -50,15 +50,13 @@ title-slide-attributes:
 
 ## What is psychological safety?
 
-#### Amy Edmondson (Harvard Business School) says...
+#### Amy Edmondson (Harvard Business School) says [-@edmondson_1999]...
 
 > The shared belief held by members of a team that the team is safe for interpersonal
 > risk taking
 
 > A sense of confidence that the team will not embarrass, reject or punish someone for
 > speaking up
-
-_TODO: Cite_
 
 :::{.notes}
 What is psychological safety?
@@ -176,6 +174,8 @@ _TODO: Cite_
 
 :::{.notes}
 You can ask these questions of yourself or your team to assess qualitatively where you are at with psychological safety.
+
+The rest of these tips are from Amy Edmondson's 2014 TED talk.
 :::
 
 
