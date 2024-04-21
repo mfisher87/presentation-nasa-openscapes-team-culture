@@ -7,6 +7,7 @@ format:
   revealjs:
     footer: "[Home](/)"
     slide-number: true
+    from: "markdown+emoji"
 title-slide-attributes:
   data-notes: |
     Introduce self. E.g. (scroll down):
@@ -239,6 +240,37 @@ _TODO_
 
 
 # Bonus slides
+
+## Overcompensate for tone [-@balter_2014]
+
+Don't :roll_eyes: yet!
+
+Text communication lacks tone. Emojis == professional! 
+
+. . .
+
+> We need to talk!
+
+. . .
+
+> :star_struck: We need to talk!
+
+
+:::{.notes}
+* There's controversy int the research here, as this is hard to study. Some research
+  seems to show, and I think many feel intuitively, that the words we use are only a
+  small part of the equation of deriving meaning from others.
+    * The "7-38-55 rule": Albert Mehrabian (meh-RAY-bee-uhn): 7% words, 38% tone, 55%
+      body language.
+    * https://doi.org/10.1111%2Fj.2044-8260.1970.tb00668.x
+* From "15 rules for communicating at GitHub", "Overcompensate for tone" has been the
+  most useful lesson for me for modern online work communication.
+* "We need to talk": Nobody wants to hear this.
+* ":star_struck: We need to talk": While the words may still be a poor choice, this has
+  become less scary.
+:::
+
+
 
 ## TODO
 
