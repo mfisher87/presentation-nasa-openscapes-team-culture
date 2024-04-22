@@ -81,7 +81,7 @@ question I think may be perceived as "dumb"**.
 * A feeling that it's OK to speak up. Especially to those more senior or experienced or
   in a position of power.
 * Have you ever felt like you saw a problem on the horizon? Did you feel safe raising
-  that problem to a person above you who might be negatively impacted? 
+  that problem to a person above you who might be negatively impacted?
 * Issues with quality on Boeing aircraft have been in the news lately, and the link on
   this slide will take you to an article that points to poor psychological safety as a
   likely culprit.
@@ -98,7 +98,7 @@ _TODO: Original speaker notes below, but who is Michael? :) Adapt?_
 
 Share story about Michael when I messed up. “I don’t have line of sight on that” and
 need you to let me know when there are issues. No blame, calm body language, clear
-invitation to bring problems to him. 
+invitation to bring problems to him.
 :::
 
 
@@ -252,7 +252,7 @@ _TODO_
 > safe to speak up with a wildly creative idea or a problem that no one else saw?
 
 :::{.notes}
-3 person breakout rooms, for 8 minutes. Add tactics to the shared doc. 
+3 person breakout rooms, for 8 minutes. Add tactics to the shared doc.
 :::
 
 
