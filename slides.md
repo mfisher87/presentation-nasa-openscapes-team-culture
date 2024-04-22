@@ -1,8 +1,8 @@
 ---
 title: "Psychological safety"
 subtitle: "[Original](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit#slide=id.g4f70323210_0_43)"
-author: "Tara Robertson, 2021<br>Updated 2023-04"
-institute: "Openscapes Champions Program<br>CC-BY Openscapes"
+author: "Tara Robertson, 2021"
+institute: "Openscapes Champions Program<br>CC-BY Openscapes<br>Last updated 2023-04"
 format:
   revealjs:
     footer: "[Home](/)"
