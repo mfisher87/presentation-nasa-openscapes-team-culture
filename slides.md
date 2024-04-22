@@ -7,6 +7,7 @@ format:
   revealjs:
     footer: "[Home](/)"
     slide-number: true
+    from: "markdown+emoji"
 title-slide-attributes:
   data-notes: |
     Introduce self. E.g. (scroll down):
@@ -18,9 +19,12 @@ title-slide-attributes:
     * Excited about psychological safety because I've experienced both safe and unsafe
       environments and seen how drastically it can impact team health and outcomes. I
       want to move more personal experiences towards psychological safety.
-    * A lot of my work has been done for me; the content that follows was authored by
-      Tara Robertson, a diversity, equity, and inclusion consultant who helped form this
-      program.
+    * I feel privileged to be teaching this lesson! I'm a beginner, but a lot of my work
+      has been done for me; the content that follows was originally authored by Tara
+      Robertson, a diversity, equity, and inclusion consultant who helped form this
+      program, and based on foundational work by Dr. Amy Edmondson, Professor of
+      Leadership at Harvard Business School.
+    * The final slide includes our references.
 ---
 
 ## Overview
@@ -46,7 +50,7 @@ title-slide-attributes:
 
 ## What is psychological safety?
 
-#### Amy Edmondson (Harvard Business School) says...
+#### Amy Edmondson (Harvard Business School) says [-@edmondson_1999]...
 
 > The shared belief held by members of a team that the team is safe for interpersonal
 > risk taking
@@ -54,14 +58,12 @@ title-slide-attributes:
 > A sense of confidence that the team will not embarrass, reject or punish someone for
 > speaking up
 
-_TODO: Cite_
-
 :::{.notes}
 What is psychological safety?
 
-A shared belief that I won't face punishment or humiliation by my peers for taking
-interpersonal risks like pointing out mistakes, sharing a wild idea, or asking a
-question I think may be perceived as "dumb".
+A shared belief that I **won't face punishment or humiliation by my peers** for taking
+interpersonal risks like **pointing out mistakes, sharing a wild idea, or asking a
+question I think may be perceived as "dumb"**.
 :::
 
 
@@ -102,98 +104,114 @@ invitation to bring problems to him.
 
 ## It takes time and consistency to build trust
 
-![@edmonson_2014_ted, TEDx talk](/assets/edmondson-avoidance-strategies.png)
+![@edmondson_2014_ted, TEDx talk](/assets/edmondson-avoidance-strategies.png)
 
 :::{.notes}
-I think it's a pretty common experience to feel uncomfortable speaking up in certain
-environments. It's very easy to avoid the negative emotions associated with looking
-ignorant, incompetent, intrusive, or negative. But are those easy behaviors good for our
-teams?
+**It's natural to avoid the negative emotions** associated with looking ignorant,
+incompetent, intrusive, or negative. But are those instinctual behaviors that come
+naturally **good for our teams?**
 
-We want people to do the hard thing here, and that takes an investment in culture to
+We want people to do the hard thing here, and that takes an **investment in culture** to
 make the "hard but right" path look less dangerous.
-
-You may currently be experiencing or have positive memories of being on a team where
-this was the case, and perhaps it felt like the team had a "magic sauce" that enabled
-the team to communicate freely, have fun, do their best work, and not feel intimidated
-or defensive. This is a big payoff for a moderate investment!
 :::
 
 
 ## Psychological safety and accountability are not in conflict
 
-![@edmonson_2014_ted, TEDx talk. The "learning zone" is when psychological safety and accountability are high.](/assets/edmondson-psych-safety-accountability-matrix.png){fig-alt="A matrix diagram defining 'Apathy Zone' when psychological safety and accountability are low, 'Anxiety Zone' when psychological safety is low and accountability is high, 'Comfort Zone' when psychological safety is high and accountability is low, and 'Learning Zone' when both are high."}
+![@edmondson_2014_ted, TEDx talk. The "learning zone" is when psychological safety and accountability are high.](/assets/edmondson-psych-safety-accountability-matrix.png){fig-alt="A matrix diagram defining 'Apathy Zone' when psychological safety and accountability are low, 'Anxiety Zone' when psychological safety is low and accountability is high, 'Comfort Zone' when psychological safety is high and accountability is low, and 'Learning Zone' when both are high."}
 
 :::{.notes}
 The concept of psychological safety can make some folks uncomfortable because they think
-it's in conflict with accountability and that increasing psychological safety will
-result in a decrease in quality.
+it's in **conflict with accountability** and that increasing psychological safety will
+result in a **decrease in quality**.
 
-Dr. Amy Edmondson argues that psychological safety and accountability are independent
-variables.
+Dr. Edmondson argues that **psychological safety and accountability are independent
+variables**. She compares accountability to the gas pedal on a car, and lack of
+psychological safety to the brake pedal.
 
-She emphasizes that the "Anxiety Zone" is the dangerous part of this diagram, with the
-potential for people to remain quiet even when they see disaster looming. With the
-addition of psychological safety, the same high-accountability environment can become
-incredibly effective.
+I think it's a pretty common experience to feel uncomfortable speaking up in certain
+environments. I can remember a time when I was in the "Anxiety zone": I had worked hard
+in my free time to innovate on a widely-agreed-upon problem, but when I shared that work
+at the office, I was challenged about working on the problem without approval. This left
+me **unmotivated to continue a project that I was previously really jazzed about**.
+
+Dr. Edmonson emphasizes that **the "Anxiety Zone" is the truly dangerous part of this
+diagram**, with the potential for people to remain quiet even when they see disaster
+looming. In the gas pedal / brake pedal analogy, this is pressing them both at the same
+time.
+
+You may currently be experiencing or have **positive memories of being in the "Learning
+Zone"**, and perhaps it felt like the team had a "magic sauce" that enabled the team to
+communicate freely, have fun, do their best work, and not feel intimidated or defensive.
+This is a big payoff for a moderate investment!
+
+In my earlier anecdote about receiving a negative reaction to sharing my independent
+work, there's a happy ending. I re-shared that work in another community, and not only
+received a supportive response, I gained a new friend and collaborator on that project
+and more! (:wave: Sunny, if you're reading this)
+
+### The learning zone is where we want to be
 :::
 
-# Actions to boost psychological safety on your team
 
-_TODO: Emoji!!_
-
+# :chart_with_upwards_trend: Actions to boost psychological safety on your team
 
 ## Assess {.smaller}
 
-Use [Amy Edmondson's 7-item
-questionnaire](https://www.uab.edu/reporter/resources/learning-development/item/8770-psychological-safety-is-the-secret-to-workplace-success):
+Use
+[Amy Edmondson's 7-item assessment](https://hbr.org/2023/02/what-is-psychological-safety):
 
 
-1. If you make a mistake on your team, is it held against you?
-1. Are you able to bring up problems and tough issues?
-1. Do people on the team sometimes reject others for being different?
-1. Is it safe to take a risk?
-1. Is it difficult to ask other team members for help?
-1. Do people on the team deliberately act to undermine your efforts?
-1. Are your unique skills and talents valued and utilized?
+1. If you make a mistake on this team, it is not held against you.
+1. Members of this team are able to bring up problems and tough issues.
+1. People on this team sometimes accept others for being different.
+1. It is safe to take a risk on this team.
+1. It isn’t difficult to ask other members of this team for help.
+1. No one on this team would deliberately act in a way that undermines my efforts.
+1. Working with members of this team, my unique skills and talents are valued and utilized.
 
-_TODO: Cite_
+[@edmondson_1999]
 
 :::{.notes}
-You can ask these questions of yourself or your team to assess qualitatively where you are at with psychological safety.
+You can use these statements to evaluate how you or your teammates feel about psychological safety of your team.
 :::
 
 
-## Framing: Learning problem, _not_ an execution problem!
+## More tips from Amy @edmondson_2014_ted
+
+* Framing work as a learning problem, _not_ an execution problem!
+
+. . .
+
+* Acknowledge your own fallibility
+
+. . .
+
+* Model curiosity
+    * [20 great open-ended questions](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
+
+:::{.notes}
+### Framing as learning
 
 > What can we learn from this?
 
 > We haven't been here before. We need everyone's brains and voices.
 
-:::{.notes}
 
-:::
+### Acknowledge fallibility
 
-
-## Acknowledge your own fallibility
+Ask yourself:
 
 > What am I missing here?
 
 > What haven't I considered?
 
-:::{.notes}
 
-:::
-
-
-## Model curiosity
+### Model curiosity
 
 Ask lots of questions!
 
-[20 great open-ended questions](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
-
-:::{.notes}
-
+The link on the slide helps provide open-ended alternatives to common questions.
 :::
 
 
@@ -240,6 +258,37 @@ _TODO_
 
 # Bonus slides
 
+## Overcompensate for tone [-@balter_2014]
+
+Don't :roll_eyes: yet!
+
+Text communication lacks tone. Emojis == professional! 
+
+. . .
+
+> We need to talk!
+
+. . .
+
+> :star_struck: We need to talk!
+
+
+:::{.notes}
+* There's controversy int the research here, as this is hard to study. Some research
+  seems to show, and I think many feel intuitively, that the words we use are only a
+  small part of the equation of deriving meaning from others.
+    * The "7-38-55 rule": Albert Mehrabian (meh-RAY-bee-uhn): 7% words, 38% tone, 55%
+      body language.
+    * https://doi.org/10.1111%2Fj.2044-8260.1970.tb00668.x
+* From "15 rules for communicating at GitHub", "Overcompensate for tone" has been the
+  most useful lesson for me for modern online work communication.
+* "We need to talk": Nobody wants to hear this.
+* ":star_struck: We need to talk": While the words may still be a poor choice, this has
+  become less scary.
+:::
+
+
+
 ## TODO
 
 * Leslie Miley - the Ketchup Test: <https://gimletmedia.com/shows/reply-all/76h54l>
@@ -252,4 +301,4 @@ _TODO_
 * ...
 
 
-# References
+## References
