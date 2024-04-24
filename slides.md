@@ -88,11 +88,9 @@ question I think may be perceived as "dumb"**.
   science, data science
 
 :::{.notes}
-* Not about being "nice" or avoiding conflict, but being "honest" and "kind".
-* A feeling that it's OK to speak up. Especially to those more senior or experienced or
+* **Not about being "nice" or avoiding conflict, but being "honest" and "kind".**
+* **A feeling that it's OK to speak up.** Especially to those more senior or experienced or
   in a position of power.
-* Have you ever felt like you saw a problem on the horizon? Did you feel safe raising
-  that problem to a person above you who might be negatively impacted?
 * Issues with quality on Boeing aircraft have been in the news lately, and the link on
   this slide will take you to an article that points to poor psychological safety as a
   likely culprit.
