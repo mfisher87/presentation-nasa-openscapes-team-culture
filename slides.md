@@ -36,15 +36,23 @@ title-slide-attributes:
 
 * **Actions you can take to boost psychological safety on your team**
 
+:construction: This slide needs to be updated to reflect new structure. :construction:
+
 
 :::{.notes}
 * Research shows diverse teams are higher-performing, more profitable, and more
   innovative. Dr. Katherine Phillips' article "How Diversity Makes us Smarter" in
   Scientific American is a highly-recommended resource to learn more about this concept.
-  _TODO: How to link this to psychological safety?_
+  _TODO: How to better link this to psychological safety? While it's an important point,
+  this doesn't really reflect the structure of the presentation. Could be better
+  mentioned on a bonus slide about benefits of psychological safety?_
 * We're going to talk more about why psychological safety is critical, not just
   important, for effective teams, and what actions you can take to boost psychological
   safety on your team.
+  _TODO: This also feels like a later thing. In Amy's TED talk she mentions this towards
+  the 10 minute mark IIRC, in emphasizing that this is critical for teams dealing with
+  complexity and interdependency (i.e. most science work) but a mere cherry on top for
+  teams that don't have those challenges._
 :::
 
 
@@ -272,6 +280,7 @@ _TODO_: This story?
 > had sheared off a 125-metre-high cliff and fallen into the river. These huge pieces of
 > rock created a five-metre waterfall, which trapped migrating salmon below the slide.
 > <https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/fish/aquatic-habitat-management/fish-passage/big-bar-landslide-incident>
+
 
 ## Data science branch shared values
 
