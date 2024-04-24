@@ -301,16 +301,20 @@ _TODO_
 
 # Bonus slides
 
+## Learn more
+
+* [Dr. Cat Hicks](https://www.drcathicks.com/): Social scientist, ...
+    * [Psychological Affordances Can [Explain] Why
+       Interventions to Improve Developer Experience Take Hold or Fail](https://osf.io/preprints/psyarxiv/qz43x)
+* [Peggy Holman](https://peggyholman.com/): Organizational development consultant and
+  researcher.
+    * [Emergent Design for Generative Change](https://peggyholman.com/wp-content/uploads/2023/03/ODReview_vol55_no1-Holman.pdf)
+
+
 ## TODO
 
 * Leslie Miley - the Ketchup Test: <https://gimletmedia.com/shows/reply-all/76h54l>
     * Add as a reference, add a dedicated slide?
-
-## Learn more
-
-* Cat Hicks
-* Peggy Holman
-* ...
 
 
 ## References
