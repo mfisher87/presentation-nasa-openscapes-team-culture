@@ -29,12 +29,13 @@ title-slide-attributes:
 
 ## Overview
 
-* **Diverse teams are more innovative** [@phillips_2014, Scientific American]
+* :muscle: **Diverse teams are more innovative** [@phillips_2014, Scientific American]
 
-* **Psychological safety is critical**: People *must* feel like they can speak up and
-  that their contributions are valued.
+* :gear: **Psychological safety is critical**: People *must* feel like they can speak up
+  and that their contributions are valued.
 
-* **Actions you can take to boost psychological safety on your team**
+* :chart_with_upwards_trend: **Actions you can take to boost psychological safety on
+  your team**
 
 :construction: This slide needs to be updated to reflect new structure. :construction:
 
