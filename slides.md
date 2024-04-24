@@ -118,6 +118,8 @@ invitation to bring problems to him.
 
 ![@edmondson_2014_ted, TEDx talk](/assets/edmondson-avoidance-strategies.png)
 
+**It's OK to repeat yourself!**
+
 :::{.notes}
 **It's natural to avoid the negative emotions** associated with looking ignorant,
 incompetent, intrusive, or negative. But are those instinctual behaviors that come
@@ -125,6 +127,9 @@ naturally **good for our teams?**
 
 We want people to do the hard thing here, and that takes an **investment in culture** to
 make the "hard but right" path look less dangerous.
+
+It's important to not be afraid to repeat yourself. Remind people there are no "dumb"
+questions, that you acknowledge and want to hear about your own mistakes.
 :::
 
 
