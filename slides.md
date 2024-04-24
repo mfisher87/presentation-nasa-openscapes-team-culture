@@ -46,7 +46,7 @@ title-slide-attributes:
   _TODO: How to better link this to psychological safety? While it's an important point,
   this doesn't really reflect the structure of the presentation. Could be better
   mentioned on a bonus slide about benefits of psychological safety?_
-* We're going to talk more about why psychological safety is critical, not just
+* We're going to talk more about why psychological safety is critical, not only
   important, for effective teams, and what actions you can take to boost psychological
   safety on your team.
   _TODO: This also feels like a later thing. In Amy's TED talk she mentions this towards
@@ -63,6 +63,7 @@ title-slide-attributes:
 > The shared belief held by members of a team that the team is safe for interpersonal
 > risk taking
 
+<!-- alex ignore reject -->
 > A sense of confidence that the team will not embarrass, reject or punish someone for
 > speaking up
 
@@ -93,10 +94,10 @@ question I think may be perceived as "dumb"**.
 * Issues with quality on Boeing aircraft have been in the news lately, and the link on
   this slide will take you to an article that points to poor psychological safety as a
   likely culprit.
-* Health care: A nurse notices what looks like a dosage mistake, but isn't certain. Does
-  he call an off-duty doctor and risk admonishment for interrupting a romantic dinner?
-  If the doctor hasn't established an environment that is psychologically safe, maybe
-  not.
+* Health care: A nurse notices what looks like a dosage mistake, but isn't certain. Do
+  they call an off-duty doctor and risk admonishment for interrupting a romantic dinner?
+  If the doctor hasn't established psychological safety, maybe the nurse administers the
+  incorrect dose.
 * Science: _TODO_
 * Data science: _TODO_
 
@@ -104,9 +105,11 @@ _TODO: Original speaker notes below, but who is Michael? :) Adapt?_
 
 <https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/>
 
+<!-- alex disable her-him -->
 Share story about Michael when I messed up. “I don’t have line of sight on that” and
 need you to let me know when there are issues. No blame, calm body language, clear
 invitation to bring problems to him.
+<!-- alex enable her-him -->
 :::
 
 
@@ -133,14 +136,16 @@ The concept of psychological safety can make some folks uncomfortable because th
 it's in **conflict with accountability** and that increasing psychological safety will
 result in a **decrease in quality**.
 
+<!-- alex disable he-she -->
 Dr. Edmondson argues that **psychological safety and accountability are independent
 variables**. She compares accountability to the gas pedal on a car, and lack of
 psychological safety to the brake pedal.
+<!-- alex enable he-she -->
 
 I think it's a pretty common experience to feel uncomfortable speaking up in certain
 environments. I can remember a time when I was in the "Anxiety zone": I had worked hard
 in my free time to innovate on a widely-agreed-upon problem, but when I shared that work
-at the office, I was challenged about working on the problem without approval. This left
+at the office, I was confronted about working on the problem without approval. This left
 me **unmotivated to continue a project that I was previously really jazzed about**.
 
 Dr. Edmonson emphasizes that **the "Anxiety Zone" is the truly dangerous part of this
@@ -187,6 +192,7 @@ You can use these statements to evaluate how you or your teammates feel about ps
 
 ## More tips from Amy @edmondson_2014_ted
 
+<!-- alex ignore execution -->
 * Framing work as a learning problem, _not_ an execution problem!
 
 . . .
@@ -261,9 +267,9 @@ Text communication lacks tone. Emojis == professional!
 
 #### How [Gavin Fay](https://twitter.com/gavin_fay) makes a psychologically safe space
 
-From his [2022 NOAA seminar](https://docs.google.com/presentation/d/1c624mH3md8pQHiP6rJ7HPuhxDLgNB7xvONDZlUM3f64/edit#slide=id.gb6050dd30d_0_0) Q&A:
+From Gavin's [2022 NOAA seminar](https://docs.google.com/presentation/d/1c624mH3md8pQHiP6rJ7HPuhxDLgNB7xvONDZlUM3f64/edit#slide=id.gb6050dd30d_0_0) Q&A:
 
-* Live coding with his lab, show mistakes
+* Live coding, show mistakes
 * Prioritize time to get to know each other & share interests
     * "What birds did you see this weekend?"
 * Follow pedagogical approaches to onboarding more inclusively
