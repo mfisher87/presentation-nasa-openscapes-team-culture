@@ -49,6 +49,7 @@ title-slide-attributes:
 * We're going to talk more about why psychological safety is critical, not only
   important, for effective teams, and what actions you can take to boost psychological
   safety on your team.
+  <!-- alex ignore he-she -->
   _TODO: This also feels like a later thing. In Amy's TED talk she mentions this towards
   the 10 minute mark IIRC, in emphasizing that this is critical for teams dealing with
   complexity and interdependency (i.e. most science work) but a mere cherry on top for
@@ -295,16 +296,6 @@ _TODO_
 <https://waterdata.usgs.gov/blog/fed-data-science-management/>
 
 
-## Breakout room discussion
-
-> What is something that you or someone has done on a team to make it psychologically
-> safe to speak up with a wildly creative idea or a problem that no one else saw?
-
-:::{.notes}
-3 person breakout rooms, for 8 minutes. Add tactics to the shared doc.
-:::
-
-
 # Bonus slides
 
 ## Learn more
@@ -315,6 +306,16 @@ _TODO_
 * [Peggy Holman](https://peggyholman.com/): Organizational development consultant and
   researcher.
     * [Emergent Design for Generative Change](https://peggyholman.com/wp-content/uploads/2023/03/ODReview_vol55_no1-Holman.pdf)
+
+
+## Thought exercise
+
+> What is something that you or someone has done on a team to make it psychologically
+> safe to speak up with a wildly creative idea or a problem that no one else saw?
+
+:::{.notes}
+3 person breakout rooms, for 8 minutes. Write notes for your group in the shared doc.
+:::
 
 
 ## TODO
