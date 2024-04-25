@@ -13,7 +13,9 @@ title-slide-attributes:
     Introduce self. E.g. (scroll down):
 
     * I'm not going to screen share the slides, but please follow along by clicking the
-      link to the slides in the notes. While you're doing that, I'll introduce myself.
+      link to the slides in the notes & chat. The slides include links and references
+      that you'll be able to follow.
+    * While you're clicking that link, I'll introduce myself.
     * Research software engineer
     * NASA Openscapes Mentor team member since mid-late 2023
     * Excited about psychological safety because I've experienced both safe and unsafe
@@ -29,32 +31,25 @@ title-slide-attributes:
 
 ## Overview
 
-* :muscle: **Diverse teams are more innovative** [@phillips_2014, Scientific American]
+<br/>
 
-* :gear: **Psychological safety is critical**: People *must* feel like they can speak up
-  and that their contributions are valued.
+#### :question: What is psychological safety?
 
-* :chart_with_upwards_trend: **Actions you can take to boost psychological safety on
-  your team**
+<br/>
 
-:construction: This slide needs to be updated to reflect new structure. :construction:
+#### :gear: Why is psychological safety important?
+
+<br />
+
+#### :chart_with_upwards_trend: How can I boost psychological safety on my team?
 
 
 :::{.notes}
-* Research shows diverse teams are higher-performing, more profitable, and more
-  innovative. Dr. Katherine Phillips' article "How Diversity Makes us Smarter" in
-  Scientific American is a highly-recommended resource to learn more about this concept.
-  _TODO: How to better link this to psychological safety? While it's an important point,
-  this doesn't really reflect the structure of the presentation. Could be better
-  mentioned on a bonus slide about benefits of psychological safety?_
-* We're going to talk more about why psychological safety is critical, not only
-  important, for effective teams, and what actions you can take to boost psychological
-  safety on your team.
-  <!-- alex ignore he-she -->
-  _TODO: This also feels like a later thing. In Amy's TED talk she mentions this towards
-  the 10 minute mark IIRC, in emphasizing that this is critical for teams dealing with
-  complexity and interdependency (i.e. most science work) but a mere cherry on top for
-  teams that don't have those challenges._
+* We're going to **define psychological safety**.
+* We're going to talk about **why psychological safety is critical**, not only
+  important, for effective teams.
+* We're going to discuss **actions you can take to boost psychological safety** on your
+  team.
 :::
 
 
@@ -304,12 +299,20 @@ _TODO_
 
 ## Learn more
 
-* [Dr. Cat Hicks](https://www.drcathicks.com/): Social scientist, ...
+* [Dr. Cat Hicks](https://www.drcathicks.com/): Social scientist, developer experience
+  researcher.
     * [Psychological Affordances Can [Explain] Why
        Interventions to Improve Developer Experience Take Hold or Fail](https://osf.io/preprints/psyarxiv/qz43x)
 * [Peggy Holman](https://peggyholman.com/): Organizational development consultant and
   researcher.
     * [Emergent Design for Generative Change](https://peggyholman.com/wp-content/uploads/2023/03/ODReview_vol55_no1-Holman.pdf)
+* **Diverse teams are more innovative** [@phillips_2014, Scientific American]
+
+:::{.notes}
+* Research shows diverse teams are higher-performing, more profitable, and more
+  innovative. Dr. Katherine Phillips' article "How Diversity Makes us Smarter" in
+  Scientific American is a highly-recommended resource to learn more about this concept.
+:::
 
 
 ## Thought exercise
@@ -326,6 +329,10 @@ _TODO_
 
 * Leslie Miley - the Ketchup Test: <https://gimletmedia.com/shows/reply-all/76h54l>
     * Add as a reference, add a dedicated slide?
+<!-- alex ignore he-she -->
+* In Amy's TED talk she mentions this towards the 10 minute mark IIRC, in emphasizing
+  that this is critical for teams dealing with complexity and interdependency (i.e. most
+  science work) but a mere cherry on top for teams that don't have those challenges._
 
 
 ## References
