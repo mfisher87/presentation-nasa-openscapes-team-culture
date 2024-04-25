@@ -53,21 +53,29 @@ title-slide-attributes:
 :::
 
 
-## What is psychological safety?
+# What is psychological safety :question:
 
-#### Amy Edmondson (Harvard Business School) says [-@edmondson_1999]...
+---
+
+### Amy Edmondson (Harvard Business School) says [-@edmondson_1999]...
+
+:::{.smaller}
+_Emphasis added._
+:::
 
 > The shared belief held by members of a team that the team is safe for interpersonal
 > risk taking
 
 <!-- alex ignore reject -->
-> A sense of confidence that the team will not embarrass, reject or punish someone for
+> A sense of **confidence** that the team will not embarrass, reject or punish someone for
 > speaking up
 
 :::{.notes}
 What is psychological safety?
 
-A shared belief that I **won't face punishment or humiliation by my peers** for taking
+To me:
+
+Feeling confident that I **won't face punishment or humiliation by my peers** for taking
 interpersonal risks like **pointing out mistakes, sharing a wild idea, or asking a
 question I think may be perceived as "dumb"**.
 :::
