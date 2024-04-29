@@ -239,9 +239,16 @@ The link on the slide helps provide open-ended alternatives to common questions.
 
 ## Overcompensate for tone [-@balter_2014]
 
-Don't :roll_eyes: yet!
 
-Text communication lacks tone. Emojis == professional!
+$$🤪 \in 💼$$
+
+. . .
+
+<center>
+:pinching_hand::sunglasses:
+
+:pinching_hand::dark_sunglasses::raised_eyebrow:
+</center>
 
 . . .
 
@@ -253,19 +260,30 @@ Text communication lacks tone. Emojis == professional!
 
 
 :::{.notes}
-* There's controversy int the research here, as this is hard to study. Some research
-  seems to show, and I think many feel intuitively, that the words we use are only a
-  small part of the equation of deriving meaning from others.
+* From "15 rules for communicating at GitHub", **"Overcompensate for tone" has been the
+  most useful lesson for me for modern online work communication.**
+* Text communication lacks tone. **Emojis and/or other media are important elements of
+  quality professional communication!**
+* _Advance_
+* **Is this how you feel?** Yet I think most feel intuitively that the words we use are
+  only a small part of understanding each other.
+* There is research supporting this, but its real-world applicability may be
+  controversial.
     * The "7-38-55 rule": Albert Mehrabian (meh-RAY-bee-uhn): 7% words, 38% tone, 55%
       body language.
-    * https://doi.org/10.1111%2Fj.2044-8260.1970.tb00668.x
-* From "15 rules for communicating at GitHub", "Overcompensate for tone" has been the
-  most useful lesson for me for modern online work communication.
-* "We need to talk": Nobody wants to hear this. Imagine someone saying these words to
-  you in person, and how their facial expression, tone, and body language can change the
-  perception.
+    * VERY small (n=20) study may indicate the brain processes emoticons similarly to
+      faces: https://doi.org/10.1080/17470919.2013.873737
+* _Advance_
+* "We need to talk": **When I read this my heart beats faster.** Imagine someone saying
+  these words to you in person, and how their facial expression, tone, and body
+  language can change the perception.
+* _Advance_
 * ":star_struck: We need to talk": While the words are still a poor choice, this has
   become less scary.
+* Emojis used to make me cringe until I worked on a team with a couple folks who were
+  deeply steeped in "meme culture" and with some other folks who communicated very
+  "dryly" by text. Over time, it became clear to me that people who used media in their
+  text communication were more successful communicators than those who didn't.
 :::
 
 
