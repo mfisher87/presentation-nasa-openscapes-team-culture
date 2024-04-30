@@ -153,20 +153,19 @@ Those behaviors can have **negative impacts** on our work and on people we care 
 :::
 
 
-## Psychological safety and accountability are not in conflict
+## Optimize team learning & effectiveness
 
 ![@edmondson_2014_ted, TEDx talk. The "learning zone" is when psychological safety and accountability are high.](/assets/edmondson-psych-safety-accountability-matrix.png){fig-alt="A matrix diagram defining 'Apathy Zone' when psychological safety and accountability are low, 'Anxiety Zone' when psychological safety is low and accountability is high, 'Comfort Zone' when psychological safety is high and accountability is low, and 'Learning Zone' when both are high."}
 
 :::{.notes}
-The concept of psychological safety can make some folks uncomfortable because they think
-it's in **conflict with accountability** and that increasing psychological safety will
-result in a **decrease in quality**.
-
 <!-- alex disable he-she -->
 Dr. Edmondson argues that **psychological safety and accountability are independent
 variables**. She compares accountability to the gas pedal on a car, and lack of
 psychological safety to the brake pedal.
 <!-- alex enable he-she -->
+
+**Let's focus on the right side of this chart, high accountability, as I think that's
+where most or all of us live day-to-day.**
 
 I think it's a pretty common experience to feel uncomfortable speaking up in certain
 environments. I can remember a time when I was in the "Anxiety zone": I had worked hard
@@ -174,10 +173,12 @@ in my free time to innovate on a widely-agreed-upon problem, but when I shared t
 at the office, I was confronted about working on the problem without approval. This left
 me **unmotivated to continue a project that I was previously really jazzed about**.
 
+<!-- alex disable her-him -->
 Dr. Edmonson emphasizes that **the "Anxiety Zone" is the truly dangerous part of this
 diagram**, with the potential for people to remain quiet even when they see disaster
-looming. In the gas pedal / brake pedal analogy, this is pressing them both at the same
+looming. In her gas pedal / brake pedal analogy, this is pressing them both at the same
 time.
+<!-- alex enable her-him -->
 
 You may currently be experiencing or have **positive memories of being in the "Learning
 Zone"**, and perhaps it felt like the team had a "magic sauce" that enabled the team to
@@ -189,7 +190,7 @@ work, there's a happy ending. I re-shared that work in another community, and no
 received a supportive response, I gained a new friend and collaborator on that project
 and more! (:wave: Sunny, if you're reading this)
 
-### The learning zone is where we want to be
+### The learning zone is where we want to be!
 :::
 
 
