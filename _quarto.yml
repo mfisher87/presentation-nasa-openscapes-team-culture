@@ -15,6 +15,8 @@ website:
     left:
       - text: "Slides"
         file: "slides.md"
+      - text: "Learn more"
+        file: "learn-more.md"
       - text: "Notes"
         file: "notes/index.md"
     right:

@@ -353,20 +353,11 @@ You can use these statements to evaluate how you or your teammates feel about ps
 
 ## Learn more
 
-* [Dr. Cat Hicks](https://www.drcathicks.com/): Social scientist, developer experience
-  researcher.
-    * [Psychological Affordances Can [Explain] Why
-       Interventions to Improve Developer Experience Take Hold or Fail](https://osf.io/preprints/psyarxiv/qz43x)
-* [Peggy Holman](https://peggyholman.com/): Organizational development consultant and
-  researcher.
-    * [Emergent Design for Generative Change](https://peggyholman.com/wp-content/uploads/2023/03/ODReview_vol55_no1-Holman.pdf)
-* **Diverse teams are more innovative** [@phillips_2014, Scientific American]
-* [What Is Psychological Safety at Work? How Leaders Can Build Psychologically Safe Workplaces](https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/)
+Please visit our [learn more page](/learn-more.md), where we've collected some
+additional resources.
 
 :::{.notes}
-* Research shows diverse teams are higher-performing, more profitable, and more
-  innovative. Dr. Katherine Phillips' article "How Diversity Makes us Smarter" in
-  Scientific American is a highly-recommended resource to learn more about this concept.
+We have too many links to comfortably fit on this slide.
 :::
 
 
