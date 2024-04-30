@@ -196,68 +196,32 @@ and more! (:wave: Sunny, if you're reading this)
 
 # :chart_with_upwards_trend: Actions to boost psychological safety on your team
 
-## Assess {.smaller}
+---
 
-Use
-[Amy Edmondson's 7-item assessment](https://hbr.org/2023/02/what-is-psychological-safety):
+<br>
+<br>
+:no_entry_sign: **Avoid** behaviors that punish risk taking
 
+<br>
+<br>
+:white_check_mark: **Encourage** risk-taking
 
-1. If you make a mistake on this team, it is not held against you.
-1. Members of this team are able to bring up problems and tough issues.
-1. People on this team sometimes accept others for being different.
-1. It is safe to take a risk on this team.
-1. It isn’t difficult to ask other members of this team for help.
-1. No one on this team would deliberately act in a way that undermines my efforts.
-1. Working with members of this team, my unique skills and talents are valued and utilized.
-
-[@edmondson_1999]
+<br>
+<br>
+:confounded: **Acknowledge** when we make mistakes
 
 :::{.notes}
-You can use these statements to evaluate how you or your teammates feel about psychological safety of your team.
+...
+
+**Acknowledge**: For example, when we accidentally punish someone for taking a risk,
+either directly or indirectly!
 :::
 
 
-## More tips from Amy @edmondson_2014_ted
-
-<!-- alex ignore execution -->
-* Framing work as a learning problem, _not_ an execution problem!
-
-. . .
-
-* Acknowledge your own fallibility
-
-. . .
-
-* Model curiosity
-    * [20 great open-ended questions](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
-
-:::{.notes}
-### Framing as learning
-
-> What can we learn from this?
-
-> We haven't been here before. We need everyone's brains and voices.
-
-
-### Acknowledge fallibility
-
-Ask yourself:
-
-> What am I missing here?
-
-> What haven't I considered?
-
-
-### Model curiosity
-
-Ask lots of questions!
-
-The link on the slide helps provide open-ended alternatives to common questions.
-:::
+# :no_entry_sign: Avoid punishing risk-taking
 
 
 ## Overcompensate for tone [-@balter_2014]
-
 
 $$🤪 \in 💼$$
 
@@ -279,6 +243,7 @@ $$🤪 \in 💼$$
 
 
 :::{.notes}
+* **Sometimes we punish risk-taking without knowing it.**
 * From "15 rules for communicating at GitHub", **"Overcompensate for tone" has been the
   most useful lesson for me for modern online work communication.**
 * Text communication lacks tone. **Emojis and/or other media are important elements of
@@ -306,6 +271,30 @@ $$🤪 \in 💼$$
 :::
 
 
+# :white_check_mark: Encourage risk-taking
+
+<!-- alex ignore execution -->
+* Framing work as a learning problem, _not_ an execution problem! [@edmondson_2014_ted]
+
+* Model curiosity
+    * [20 great open-ended questions](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
+
+:::{.notes}
+### Framing as learning
+
+> What can we learn from this?
+
+> We haven't been here before. We need everyone's brains and voices.
+
+
+### Model curiosity
+
+Ask lots of questions!
+
+The link on the slide helps provide open-ended alternatives to common questions.
+:::
+
+
 ## It takes time and consistency to build trust
 
 **It's OK to repeat yourself!**
@@ -325,38 +314,39 @@ questions, that you acknowledge and want to hear about your own mistakes.
 :::
 
 
-# :construction: Construction zone :construction:
+# :confounded: Acknowledge our mistakes
 
----
+Ask yourself and your team:
 
-#### How [Gavin Fay](https://twitter.com/gavin_fay) makes a psychologically safe space
+> What am I missing here?
 
-From Gavin's [2022 NOAA seminar](https://docs.google.com/presentation/d/1c624mH3md8pQHiP6rJ7HPuhxDLgNB7xvONDZlUM3f64/edit#slide=id.gb6050dd30d_0_0) Q&A:
+> What haven't I considered?
 
-* Live coding, show mistakes
-* Prioritize time to get to know each other & share interests
-    * "What birds did you see this weekend?"
-* Follow pedagogical approaches to onboarding more inclusively
-    * Ex: [teaching R with the tidyverse](https://arxiv.org/abs/2108.03510)
-        * _TODO_: Why is this a good example?
+:::{.notes}
+Acknowledging we don't have all the answers **encourages our team to help and feel OK
+about not having all the answers themselves**.
+:::
 
 
----
+## Assess {.smaller}
 
-_TODO_: This story?
-
-> On June 23, 2019, a landslide in a remote and rugged canyon along the Fraser River,
-> north of Lillooet, was reported to the B.C. government. Over 85,000 cubic metres of rock
-> had sheared off a 125-metre-high cliff and fallen into the river. These huge pieces of
-> rock created a five-metre waterfall, which trapped migrating salmon below the slide.
-> <https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/fish/aquatic-habitat-management/fish-passage/big-bar-landslide-incident>
+Use
+[Amy Edmondson's 7-item assessment](https://hbr.org/2023/02/what-is-psychological-safety):
 
 
-## Data science branch shared values
+1. If you make a mistake on this team, it is not held against you.
+1. Members of this team are able to bring up problems and tough issues.
+1. People on this team sometimes accept others for being different.
+1. It is safe to take a risk on this team.
+1. It isn’t difficult to ask other members of this team for help.
+1. No one on this team would deliberately act in a way that undermines my efforts.
+1. Working with members of this team, my unique skills and talents are valued and utilized.
 
-_TODO_
+[@edmondson_1999]
 
-<https://waterdata.usgs.gov/blog/fed-data-science-management/>
+:::{.notes}
+You can use these statements to evaluate how you or your teammates feel about psychological safety of your team.
+:::
 
 
 # Bonus slides
@@ -390,7 +380,43 @@ _TODO_
 :::
 
 
-## TODO
+# :construction: Construction zone :construction:
+
+Continue to end to see our references!
+
+---
+
+#### How [Gavin Fay](https://twitter.com/gavin_fay) makes a psychologically safe space
+
+From Gavin's [2022 NOAA seminar](https://docs.google.com/presentation/d/1c624mH3md8pQHiP6rJ7HPuhxDLgNB7xvONDZlUM3f64/edit#slide=id.gb6050dd30d_0_0) Q&A:
+
+* Live coding, show mistakes
+* Prioritize time to get to know each other & share interests
+    * "What birds did you see this weekend?"
+* Follow pedagogical approaches to onboarding more inclusively
+    * Ex: [teaching R with the tidyverse](https://arxiv.org/abs/2108.03510)
+        * _TODO_: Why is this a good example?
+
+
+---
+
+_TODO_: This story?
+
+> On June 23, 2019, a landslide in a remote and rugged canyon along the Fraser River,
+> north of Lillooet, was reported to the B.C. government. Over 85,000 cubic metres of rock
+> had sheared off a 125-metre-high cliff and fallen into the river. These huge pieces of
+> rock created a five-metre waterfall, which trapped migrating salmon below the slide.
+> <https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/fish/aquatic-habitat-management/fish-passage/big-bar-landslide-incident>
+
+
+## Data science branch shared values
+
+_TODO: Make this a "learn more" link?_
+
+<https://waterdata.usgs.gov/blog/fed-data-science-management/>
+
+
+## :wrench: TODO
 
 * Leslie Miley - the Ketchup Test: <https://gimletmedia.com/shows/reply-all/76h54l>
     * Add as a reference, add a dedicated slide?
