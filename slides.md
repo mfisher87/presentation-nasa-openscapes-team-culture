@@ -148,9 +148,8 @@ forgot to share their screen!
 In Dr. Edmondson's original presentation, she titled the right column with "easy", but I
 think a better word might be "natural" or "instinctual".
 
-**It's natural to avoid the negative emotions associated with looking ignorant,
-incompetent, intrusive, or negative.** Those choices can have **negative impacts** on
-our work and on people we care about.
+**Avoidant behaviors are natural in response to an environment perceived as dangerous.**
+Those behaviors can have **negative impacts** on our work and on people we care about.
 :::
 
 
