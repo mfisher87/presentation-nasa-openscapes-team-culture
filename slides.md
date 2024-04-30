@@ -13,7 +13,9 @@ title-slide-attributes:
     Introduce self. E.g. (scroll down):
 
     * I'm not going to screen share the slides, but please follow along by clicking the
-      link to the slides in the notes. While you're doing that, I'll introduce myself.
+      link to the slides in the notes & chat. The slides include links and references
+      that you'll be able to follow.
+    * While you're clicking that link, I'll introduce myself.
     * Research software engineer
     * NASA Openscapes Mentor team member since mid-late 2023
     * Excited about psychological safety because I've experienced both safe and unsafe
@@ -29,123 +31,141 @@ title-slide-attributes:
 
 ## Overview
 
-* :muscle: **Diverse teams are more innovative** [@phillips_2014, Scientific American]
+<br/>
 
-* :gear: **Psychological safety is critical**: People *must* feel like they can speak up
-  and that their contributions are valued.
+#### :question: What is psychological safety?
 
-* :chart_with_upwards_trend: **Actions you can take to boost psychological safety on
-  your team**
+<br/>
 
-:construction: This slide needs to be updated to reflect new structure. :construction:
+#### :gear: Why is psychological safety important?
+
+<br />
+
+#### :chart_with_upwards_trend: How can I boost psychological safety on my team?
 
 
 :::{.notes}
-* Research shows diverse teams are higher-performing, more profitable, and more
-  innovative. Dr. Katherine Phillips' article "How Diversity Makes us Smarter" in
-  Scientific American is a highly-recommended resource to learn more about this concept.
-  _TODO: How to better link this to psychological safety? While it's an important point,
-  this doesn't really reflect the structure of the presentation. Could be better
-  mentioned on a bonus slide about benefits of psychological safety?_
-* We're going to talk more about why psychological safety is critical, not only
-  important, for effective teams, and what actions you can take to boost psychological
-  safety on your team.
-  <!-- alex ignore he-she -->
-  _TODO: This also feels like a later thing. In Amy's TED talk she mentions this towards
-  the 10 minute mark IIRC, in emphasizing that this is critical for teams dealing with
-  complexity and interdependency (i.e. most science work) but a mere cherry on top for
-  teams that don't have those challenges._
+* We're going to **define psychological safety**.
+* We're going to talk about **why psychological safety is critical**, not only
+  important, for effective teams.
+* We're going to discuss **actions you can take to boost psychological safety** on your
+  team.
 :::
 
 
-## What is psychological safety?
+# What is psychological safety :question:
 
-#### Amy Edmondson (Harvard Business School) says [-@edmondson_1999]...
+---
+
+### Amy Edmondson (Harvard Business School) says [-@edmondson_1999]...
+
+:::{.smaller}
+_Emphasis added._
+:::
 
 > The shared belief held by members of a team that the team is safe for interpersonal
 > risk taking
 
 <!-- alex ignore reject -->
-> A sense of confidence that the team will not embarrass, reject or punish someone for
+> A sense of **confidence** that the team will not embarrass, reject or punish someone for
 > speaking up
 
 :::{.notes}
 What is psychological safety?
 
-A shared belief that I **won't face punishment or humiliation by my peers** for taking
+To me:
+
+Feeling confident that I **won't face punishment or humiliation by my peers** for taking
 interpersonal risks like **pointing out mistakes, sharing a wild idea, or asking a
 question I think may be perceived as "dumb"**.
 :::
 
 
-## What is psychological safety?
+---
 
-* It's not about avoiding conflict or being "nice"
-* Do you feel safe to speak up with a concern or wildly creative idea? Or telling the
-  presenter they forgot to share their screen?
-* Examples: health care,
-  [aviation](https://www.forbes.com/sites/juliekratz/2024/03/27/the-boeing-leadership-shakeup-is-a-cautionary-tale-in-psychological-safety/?sh=270895f015a4),
-  science, data science
+<br/>
+
+### :no_entry_sign: avoiding conflict or being "too nice"
+
+<br/>
+
+### :white_check_mark: kind and honest communication
 
 :::{.notes}
-* **Not about being "nice" or avoiding conflict, but being "honest" and "kind".**
-* **A feeling that it's OK to speak up.** Especially to those more senior or experienced or
-  in a position of power.
-* Issues with quality on Boeing aircraft have been in the news lately, and the link on
-  this slide will take you to an article that points to poor psychological safety as a
-  likely culprit.
-* Health care: A nurse notices what looks like a dosage mistake, but isn't certain. Do
-  they call an off-duty doctor and risk admonishment for interrupting a romantic dinner?
-  If the doctor hasn't established psychological safety, maybe the nurse administers the
-  incorrect dose.
-* Science: _TODO_
-* Data science: _TODO_
+Psychological safety is **not about walking on eggshells to avoid giving negative
+feedback.**
 
-_TODO: Original speaker notes below, but who is Michael? :) Adapt?_
-
-<https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/>
-
-<!-- alex disable her-him -->
-Share story about Michael when I messed up. “I don’t have line of sight on that” and
-need you to let me know when there are issues. No blame, calm body language, clear
-invitation to bring problems to him.
-<!-- alex enable her-him -->
+It's about **feeling safe to speak up with a concern or wildly creative idea, or to give
+constructive criticism.** If psychological safety is not great on a team, they might
+fail to give such basic and critical constructive criticism as telling a presenter they
+forgot to share their screen!
 :::
 
 
-## It takes time and consistency to build trust
+
+## Examples
+
+::::::{.columns}
+
+:::{.column}
+<center>
+![Healthcare](/assets/medication_wikimedia.png)
+</center>
+:::
+
+:::{.column}
+<center>
+![[Aviation](https://www.forbes.com/sites/juliekratz/2024/03/27/the-boeing-leadership-shakeup-is-a-cautionary-tale-in-psychological-safety/?sh=270895f015a4)](/assets/airplane_wikimedia.png)
+</center>
+:::
+
+::::::
+
+> Images sourced from Wikimedia Commons (CC-BY), and altered
+> ([1](https://commons.wikimedia.org/wiki/File:Capsules_Spilling_from_Bottle_(34356373370).jpg),
+> [2](https://commons.wikimedia.org/wiki/File:Another_Airplane!_(4676723312).jpg))
+
+:::{.notes}
+* **A nurse notices what looks like a dosage mistake, but isn't certain. Do
+  they call an on-call doctor and double-check?** How do the prior interactions between
+  these people factor in to this decision? Perhaps this doctor has criticized this
+  nurse's competence before.
+* **Issues with quality on Boeing aircraft have been in the news lately, and an article in
+  Forbes points to psychological safety (see link).**
+:::
+
+
+# :gear: Why is psychological safety important?
+
+## Risks & consequences
+
+#### Not having psychological safety considered harmful
 
 ![@edmondson_2014_ted, TEDx talk](/assets/edmondson-avoidance-strategies.png)
 
-**It's OK to repeat yourself!**
-
 :::{.notes}
-**It's natural to avoid the negative emotions** associated with looking ignorant,
-incompetent, intrusive, or negative. But are those instinctual behaviors that come
-naturally **good for our teams?**
+<!-- alex ignore he-she -->
+In Dr. Edmondson's original presentation, she titled the right column with "easy", but I
+think a better word might be "natural" or "instinctual".
 
-We want people to do the hard thing here, and that takes an **investment in culture** to
-make the "hard but right" path look less dangerous.
-
-It's important to not be afraid to repeat yourself. Remind people there are no "dumb"
-questions, that you acknowledge and want to hear about your own mistakes.
+**Avoidant behaviors are natural in response to an environment perceived as dangerous.**
+Those behaviors can have **negative impacts** on our work and on people we care about.
 :::
 
 
-## Psychological safety and accountability are not in conflict
+## Optimize team learning & effectiveness
 
 ![@edmondson_2014_ted, TEDx talk. The "learning zone" is when psychological safety and accountability are high.](/assets/edmondson-psych-safety-accountability-matrix.png){fig-alt="A matrix diagram defining 'Apathy Zone' when psychological safety and accountability are low, 'Anxiety Zone' when psychological safety is low and accountability is high, 'Comfort Zone' when psychological safety is high and accountability is low, and 'Learning Zone' when both are high."}
 
 :::{.notes}
-The concept of psychological safety can make some folks uncomfortable because they think
-it's in **conflict with accountability** and that increasing psychological safety will
-result in a **decrease in quality**.
-
 <!-- alex disable he-she -->
 Dr. Edmondson argues that **psychological safety and accountability are independent
 variables**. She compares accountability to the gas pedal on a car, and lack of
 psychological safety to the brake pedal.
 <!-- alex enable he-she -->
+
+**Let's focus on the right side of this chart, high accountability, as I think that's
+where most or all of us live day-to-day.**
 
 I think it's a pretty common experience to feel uncomfortable speaking up in certain
 environments. I can remember a time when I was in the "Anxiety zone": I had worked hard
@@ -153,10 +173,12 @@ in my free time to innovate on a widely-agreed-upon problem, but when I shared t
 at the office, I was confronted about working on the problem without approval. This left
 me **unmotivated to continue a project that I was previously really jazzed about**.
 
+<!-- alex disable her-him -->
 Dr. Edmonson emphasizes that **the "Anxiety Zone" is the truly dangerous part of this
 diagram**, with the potential for people to remain quiet even when they see disaster
-looming. In the gas pedal / brake pedal analogy, this is pressing them both at the same
+looming. In her gas pedal / brake pedal analogy, this is pressing them both at the same
 time.
+<!-- alex enable her-him -->
 
 You may currently be experiencing or have **positive memories of being in the "Learning
 Zone"**, and perhaps it felt like the team had a "magic sauce" that enabled the team to
@@ -168,11 +190,143 @@ work, there's a happy ending. I re-shared that work in another community, and no
 received a supportive response, I gained a new friend and collaborator on that project
 and more! (:wave: Sunny, if you're reading this)
 
-### The learning zone is where we want to be
+### The learning zone is where we want to be!
 :::
 
 
 # :chart_with_upwards_trend: Actions to boost psychological safety on your team
+
+---
+
+<br>
+<br>
+:no_entry_sign: **Avoid** behaviors that punish risk taking
+
+<br>
+<br>
+:white_check_mark: **Encourage** risk-taking
+
+<br>
+<br>
+:confounded: **Acknowledge** when we make mistakes
+
+:::{.notes}
+...
+
+**Acknowledge**: For example, when we accidentally punish someone for taking a risk,
+either directly or indirectly!
+:::
+
+
+# :no_entry_sign: Avoid punishing risk-taking
+
+
+## Overcompensate for tone [-@balter_2014]
+
+$$🤪 \in 💼$$
+
+. . .
+
+<center>
+:pinching_hand::sunglasses:
+
+:pinching_hand::dark_sunglasses::raised_eyebrow:
+</center>
+
+. . .
+
+> We need to talk!
+
+. . .
+
+> :star_struck: We need to talk!
+
+
+:::{.notes}
+* **Sometimes we punish risk-taking without knowing it.**
+* From "15 rules for communicating at GitHub", **"Overcompensate for tone" has been the
+  most useful lesson for me for modern online work communication.**
+* Text communication lacks tone. **Emojis and/or other media are important elements of
+  quality professional communication!**
+* _Advance_
+* **Is this how you feel?** Yet I think most feel intuitively that the words we use are
+  only a small part of understanding each other.
+* There is research supporting this, but its real-world applicability may be
+  controversial.
+    * The "7-38-55 rule": Albert Mehrabian (meh-RAY-bee-uhn): 7% words, 38% tone, 55%
+      body language.
+    * VERY small (n=20) study may indicate the brain processes emoticons similarly to
+      faces: https://doi.org/10.1080/17470919.2013.873737
+* _Advance_
+* "We need to talk": **When I read this my heart beats faster.** Imagine someone saying
+  these words to you in person, and how their facial expression, tone, and body
+  language can change the perception.
+* _Advance_
+* ":star_struck: We need to talk": While the words are still a poor choice, this has
+  become less scary.
+* Emojis used to make me cringe until I worked on a team with a couple folks who were
+  deeply steeped in "meme culture" and with some other folks who communicated very
+  "dryly" by text. Over time, it became clear to me that people who used media in their
+  text communication were more successful communicators than those who didn't.
+:::
+
+
+# :white_check_mark: Encourage risk-taking
+
+<!-- alex ignore execution -->
+* Framing work as a learning problem, _not_ an execution problem! [@edmondson_2014_ted]
+
+* Model curiosity
+    * [20 great open-ended questions](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
+
+:::{.notes}
+### Framing as learning
+
+> What can we learn from this?
+
+> We haven't been here before. We need everyone's brains and voices.
+
+
+### Model curiosity
+
+Ask lots of questions!
+
+The link on the slide helps provide open-ended alternatives to common questions.
+:::
+
+
+## It takes time and consistency to build trust
+
+**It's OK to repeat yourself!**
+
+> All ideas are valuable
+
+> Woops! I made a mistake
+
+<!-- alex ignore stupid wacko -->
+> There are no "stupid questions"
+
+> Our job is to learn
+
+:::{.notes}
+It's important to not be afraid to repeat yourself. Remind people there are no "dumb"
+questions, that you acknowledge and want to hear about your own mistakes.
+:::
+
+
+# :confounded: Acknowledge our mistakes
+
+Ask yourself and your team:
+
+> What am I missing here?
+
+> What haven't I considered?
+
+:::{.notes}
+Acknowledging we don't have all the answers **encourages our team to help and feel OK
+about not having all the answers themselves**.
+:::
+
 
 ## Assess {.smaller}
 
@@ -195,78 +349,31 @@ You can use these statements to evaluate how you or your teammates feel about ps
 :::
 
 
-## More tips from Amy @edmondson_2014_ted
+# Bonus slides
 
-<!-- alex ignore execution -->
-* Framing work as a learning problem, _not_ an execution problem!
+## Learn more
 
-. . .
-
-* Acknowledge your own fallibility
-
-. . .
-
-* Model curiosity
-    * [20 great open-ended questions](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
+Please visit our [learn more page](/learn-more.md), where we've collected some
+additional resources.
 
 :::{.notes}
-### Framing as learning
-
-> What can we learn from this?
-
-> We haven't been here before. We need everyone's brains and voices.
-
-
-### Acknowledge fallibility
-
-Ask yourself:
-
-> What am I missing here?
-
-> What haven't I considered?
-
-
-### Model curiosity
-
-Ask lots of questions!
-
-The link on the slide helps provide open-ended alternatives to common questions.
+We have too many links to comfortably fit on this slide.
 :::
 
 
-## Overcompensate for tone [-@balter_2014]
+## Thought exercise
 
-Don't :roll_eyes: yet!
-
-Text communication lacks tone. Emojis == professional!
-
-. . .
-
-> We need to talk!
-
-. . .
-
-> :star_struck: We need to talk!
-
+> What is something that you or someone has done on a team to make it psychologically
+> safe to speak up with a wildly creative idea or a problem that no one else saw?
 
 :::{.notes}
-* There's controversy int the research here, as this is hard to study. Some research
-  seems to show, and I think many feel intuitively, that the words we use are only a
-  small part of the equation of deriving meaning from others.
-    * The "7-38-55 rule": Albert Mehrabian (meh-RAY-bee-uhn): 7% words, 38% tone, 55%
-      body language.
-    * https://doi.org/10.1111%2Fj.2044-8260.1970.tb00668.x
-* From "15 rules for communicating at GitHub", "Overcompensate for tone" has been the
-  most useful lesson for me for modern online work communication.
-* "We need to talk": Nobody wants to hear this. Imagine someone saying these words to
-  you in person, and how their facial expression, tone, and body language can change the
-  perception.
-* ":star_struck: We need to talk": While the words are still a poor choice, this has
-  become less scary.
+3 person breakout rooms, for 8 minutes. Write notes for your group in the shared doc.
 :::
 
 
 # :construction: Construction zone :construction:
+
+Continue to end to see our references!
 
 ---
 
@@ -295,37 +402,19 @@ _TODO_: This story?
 
 ## Data science branch shared values
 
-_TODO_
+_TODO: Make this a "learn more" link?_
 
 <https://waterdata.usgs.gov/blog/fed-data-science-management/>
 
 
-# Bonus slides
-
-## Learn more
-
-* [Dr. Cat Hicks](https://www.drcathicks.com/): Social scientist, ...
-    * [Psychological Affordances Can [Explain] Why
-       Interventions to Improve Developer Experience Take Hold or Fail](https://osf.io/preprints/psyarxiv/qz43x)
-* [Peggy Holman](https://peggyholman.com/): Organizational development consultant and
-  researcher.
-    * [Emergent Design for Generative Change](https://peggyholman.com/wp-content/uploads/2023/03/ODReview_vol55_no1-Holman.pdf)
-
-
-## Thought exercise
-
-> What is something that you or someone has done on a team to make it psychologically
-> safe to speak up with a wildly creative idea or a problem that no one else saw?
-
-:::{.notes}
-3 person breakout rooms, for 8 minutes. Write notes for your group in the shared doc.
-:::
-
-
-## TODO
+## :wrench: TODO
 
 * Leslie Miley - the Ketchup Test: <https://gimletmedia.com/shows/reply-all/76h54l>
     * Add as a reference, add a dedicated slide?
+<!-- alex ignore he-she -->
+* In Amy's TED talk she mentions this towards the 10 minute mark IIRC, in emphasizing
+  that this is critical for teams dealing with complexity and interdependency (i.e. most
+  science work) but a mere cherry on top for teams that don't have those challenges._
 
 
 ## References
