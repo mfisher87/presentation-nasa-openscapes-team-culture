@@ -137,22 +137,20 @@ forgot to share their screen!
 
 # :gear: Why is psychological safety important?
 
-## It takes time and consistency to build trust
+## Risks & consequences
+
+#### Not having psychological safety considered harmful
 
 ![@edmondson_2014_ted, TEDx talk](/assets/edmondson-avoidance-strategies.png)
 
-**It's OK to repeat yourself!**
-
 :::{.notes}
-**It's natural to avoid the negative emotions** associated with looking ignorant,
-incompetent, intrusive, or negative. But are those instinctual behaviors that come
-naturally **good for our teams?**
+<!-- alex ignore he-she -->
+In Dr. Edmondson's original presentation, she titled the right column with "easy", but I
+think a better word might be "natural" or "instinctual".
 
-We want people to do the hard thing here, and that takes an **investment in culture** to
-make the "hard but right" path look less dangerous.
-
-It's important to not be afraid to repeat yourself. Remind people there are no "dumb"
-questions, that you acknowledge and want to hear about your own mistakes.
+**It's natural to avoid the negative emotions associated with looking ignorant,
+incompetent, intrusive, or negative.** Those choices can have **negative impacts** on
+our work and on people we care about.
 :::
 
 
@@ -305,6 +303,25 @@ $$🤪 \in 💼$$
   deeply steeped in "meme culture" and with some other folks who communicated very
   "dryly" by text. Over time, it became clear to me that people who used media in their
   text communication were more successful communicators than those who didn't.
+:::
+
+
+## It takes time and consistency to build trust
+
+**It's OK to repeat yourself!**
+
+> All ideas are valuable
+
+> Woops! I made a mistake
+
+<!-- alex ignore stupid wacko -->
+> There are no "stupid questions"
+
+> Our job is to learn
+
+:::{.notes}
+It's important to not be afraid to repeat yourself. Remind people there are no "dumb"
+questions, that you acknowledge and want to hear about your own mistakes.
 :::
 
 
