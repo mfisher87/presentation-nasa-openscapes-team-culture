@@ -81,40 +81,61 @@ question I think may be perceived as "dumb"**.
 :::
 
 
-## What is psychological safety?
+---
 
-* It's not about avoiding conflict or being "nice"
-* Do you feel safe to speak up with a concern or wildly creative idea? Or telling the
-  presenter they forgot to share their screen?
-* Examples: health care,
-  [aviation](https://www.forbes.com/sites/juliekratz/2024/03/27/the-boeing-leadership-shakeup-is-a-cautionary-tale-in-psychological-safety/?sh=270895f015a4),
-  science, data science
+<br/>
+
+### :no_entry_sign: avoiding conflict or being "too nice"
+
+<br/>
+
+### :white_check_mark: kind and honest communication
 
 :::{.notes}
-* **Not about being "nice" or avoiding conflict, but being "honest" and "kind".**
-* **A feeling that it's OK to speak up.** Especially to those more senior or experienced or
-  in a position of power.
-* Issues with quality on Boeing aircraft have been in the news lately, and the link on
-  this slide will take you to an article that points to poor psychological safety as a
-  likely culprit.
-* Health care: A nurse notices what looks like a dosage mistake, but isn't certain. Do
-  they call an off-duty doctor and risk admonishment for interrupting a romantic dinner?
-  If the doctor hasn't established psychological safety, maybe the nurse administers the
-  incorrect dose.
-* Science: _TODO_
-* Data science: _TODO_
+Psychological safety is **not about walking on eggshells to avoid giving negative
+feedback.**
 
-_TODO: Original speaker notes below, but who is Michael? :) Adapt?_
-
-<https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/>
-
-<!-- alex disable her-him -->
-Share story about Michael when I messed up. “I don’t have line of sight on that” and
-need you to let me know when there are issues. No blame, calm body language, clear
-invitation to bring problems to him.
-<!-- alex enable her-him -->
+It's about **feeling safe to speak up with a concern or wildly creative idea, or to give
+constructive criticism.** If psychological safety is not great on a team, they might
+fail to give such basic and critical constructive criticism as telling a presenter they
+forgot to share their screen!
 :::
 
+
+
+## Examples
+
+::::::{.columns}
+
+:::{.column}
+<center>
+![Healthcare](/assets/medication_wikimedia.png)
+</center>
+:::
+
+:::{.column}
+<center>
+![[Aviation](https://www.forbes.com/sites/juliekratz/2024/03/27/the-boeing-leadership-shakeup-is-a-cautionary-tale-in-psychological-safety/?sh=270895f015a4)](/assets/airplane_wikimedia.png)
+</center>
+:::
+
+::::::
+
+> Images sourced from Wikimedia Commons (CC-BY), and altered
+> ([1](https://commons.wikimedia.org/wiki/File:Capsules_Spilling_from_Bottle_(34356373370).jpg),
+> [2](https://commons.wikimedia.org/wiki/File:Another_Airplane!_(4676723312).jpg))
+
+:::{.notes}
+* **A nurse notices what looks like a dosage mistake, but isn't certain. Do
+  they call an on-call doctor and double-check?** How do the prior interactions between
+  these people factor in to this decision? Perhaps this doctor has criticized this
+  nurse's competence before.
+* **Issues with quality on Boeing aircraft have been in the news lately, and an article in
+  Forbes points to psychological safety (see link).**
+:::
+
+
+# :gear: Why is psychological safety important?
 
 ## It takes time and consistency to build trust
 
@@ -333,6 +354,7 @@ _TODO_
   researcher.
     * [Emergent Design for Generative Change](https://peggyholman.com/wp-content/uploads/2023/03/ODReview_vol55_no1-Holman.pdf)
 * **Diverse teams are more innovative** [@phillips_2014, Scientific American]
+* [What Is Psychological Safety at Work? How Leaders Can Build Psychologically Safe Workplaces](https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/)
 
 :::{.notes}
 * Research shows diverse teams are higher-performing, more profitable, and more
