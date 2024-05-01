@@ -135,7 +135,8 @@ forgot to share their screen!
   these people factor in to this decision? Perhaps this doctor has criticized this
   nurse's competence before.
 * **Issues with quality on Boeing aircraft have been in the news lately, and an article in
-  Forbes points to psychological safety (see link).**
+  Forbes points to psychological safety (see link).** Psychological safety can translate
+  to physical unsafety.
 :::
 
 
