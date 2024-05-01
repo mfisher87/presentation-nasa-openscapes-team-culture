@@ -10,22 +10,24 @@ format:
     from: "markdown+emoji"
 title-slide-attributes:
   data-notes: |
+    These slides include links and references, so please find the link to the slides in
+    the notes document and in the chat.
+
     Introduce self. E.g. (scroll down):
 
-    * I'm not going to screen share the slides, but please follow along by clicking the
-      link to the slides in the notes & chat. The slides include links and references
-      that you'll be able to follow.
-    * While you're clicking that link, I'll introduce myself.
-    * Research software engineer
+    * Research software engineer at National Snow and Ice Data Center
     * NASA Openscapes Mentor team member since mid-late 2023
-    * Excited about psychological safety because I've experienced both safe and unsafe
-      environments and seen how drastically it can impact team health and outcomes. I
-      want to move more personal experiences towards psychological safety.
+    * Excited about psychological safety because **I've been on teams of varying
+      effectiveness, and I wanted to understand what was going on and replicate
+      successess**. I found psychological safety to be an effective explanatory
+      layer.
     * I feel privileged to be teaching this lesson! I'm a beginner, but a lot of my work
       has been done for me; the content that follows was originally authored by Tara
       Robertson, a diversity, equity, and inclusion consultant who helped form this
       program, and based on foundational work by Dr. Amy Edmondson, Professor of
       Leadership at Harvard Business School.
+    * There are bonus slides at the end including a psychological safety assessment and
+      more resources.
     * The final slide includes our references.
 ---
 
@@ -75,18 +77,20 @@ What is psychological safety?
 
 To me:
 
-Feeling confident that I **won't face punishment or humiliation by my peers** for taking
-interpersonal risks like **pointing out mistakes, sharing a wild idea, or asking a
-question I think may be perceived as "dumb"**.
+Feeling confident that I **won't face punishment or humiliation by my colleagues** for
+taking interpersonal risks like **pointing out mistakes, sharing a wild idea, or asking
+a question I think may be perceived as "dumb"**.
 :::
 
 
 ---
 
 <br/>
+<br/>
 
 ### :no_entry_sign: avoiding conflict or being "too nice"
 
+<br/>
 <br/>
 
 ### :white_check_mark: kind and honest communication
@@ -194,19 +198,14 @@ and more! (:wave: Sunny, if you're reading this)
 :::
 
 
-# :chart_with_upwards_trend: Actions to boost psychological safety on your team
+## :chart_with_upwards_trend: Actions to boost psychological safety on your team
 
----
-
-<br>
 <br>
 :no_entry_sign: **Avoid** behaviors that punish risk taking
 
 <br>
-<br>
 :white_check_mark: **Encourage** risk-taking
 
-<br>
 <br>
 :confounded: **Acknowledge** when we make mistakes
 
@@ -243,14 +242,13 @@ $$🤪 \in 💼$$
 
 
 :::{.notes}
-* **Sometimes we punish risk-taking without knowing it.**
-* From "15 rules for communicating at GitHub", **"Overcompensate for tone" has been the
-  most useful lesson for me for modern online work communication.**
-* Text communication lacks tone. **Emojis and/or other media are important elements of
-  quality professional communication!**
+* **Sometimes we punish risk-taking without knowing it**, because text communication
+  doesn't effectively communicate tone.
+* **Emojis and/or other media are important elements of quality professional communication!**
 * _Advance_
-* **Is this how you feel?** Yet I think most feel intuitively that the words we use are
-  only a small part of understanding each other.
+* **Maybe you feel like this right now.**
+* Yet **I think most folks feel intuitively that the words we use are only a small part
+  of understanding each other.**
 * There is research supporting this, but its real-world applicability may be
   controversial.
     * The "7-38-55 rule": Albert Mehrabian (meh-RAY-bee-uhn): 7% words, 38% tone, 55%
@@ -271,10 +269,14 @@ $$🤪 \in 💼$$
 :::
 
 
-# :white_check_mark: Encourage risk-taking
+## :white_check_mark: Encourage risk-taking
+
+<br>
 
 <!-- alex ignore execution -->
 * Framing work as a learning problem, _not_ an execution problem! [@edmondson_2014_ted]
+
+<br>
 
 * Model curiosity
     * [20 great open-ended questions](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
@@ -314,8 +316,9 @@ questions, that you acknowledge and want to hear about your own mistakes.
 :::
 
 
-# :confounded: Acknowledge our mistakes
+## :confounded: Acknowledge our mistakes
 
+<br>
 Ask yourself and your team:
 
 > What am I missing here?
@@ -327,6 +330,37 @@ Acknowledging we don't have all the answers **encourages our team to help and fe
 about not having all the answers themselves**.
 :::
 
+## :chart_with_upwards_trend: Actions to boost psychological safety on your team
+
+<br>
+:no_entry_sign: **Avoid** behaviors that punish risk taking
+
+<br>
+:white_check_mark: **Encourage** risk-taking
+
+<br>
+:confounded: **Acknowledge** when we make mistakes
+
+
+# Thank you! :heart:
+
+:::{.notes}
+Thanks for your time! We're going to continue on to do an exercise.
+:::
+
+
+## Thought exercise
+
+> What is something that you or someone has done on a team to make it psychologically
+> safe to speak up with a wildly creative idea or a problem that no one else saw?
+
+:::{.notes}
+Let's reflect now on our experiences or observations about what building a
+psychologically safe environment looks like.
+:::
+
+
+# :tada: Bonus slides
 
 ## Assess {.smaller}
 
@@ -349,8 +383,6 @@ You can use these statements to evaluate how you or your teammates feel about ps
 :::
 
 
-# Bonus slides
-
 ## Learn more
 
 Please visit our [learn more page](/learn-more.md), where we've collected some
@@ -358,16 +390,6 @@ additional resources.
 
 :::{.notes}
 We have too many links to comfortably fit on this slide.
-:::
-
-
-## Thought exercise
-
-> What is something that you or someone has done on a team to make it psychologically
-> safe to speak up with a wildly creative idea or a problem that no one else saw?
-
-:::{.notes}
-3 person breakout rooms, for 8 minutes. Write notes for your group in the shared doc.
 :::
 
 
@@ -398,13 +420,6 @@ _TODO_: This story?
 > had sheared off a 125-metre-high cliff and fallen into the river. These huge pieces of
 > rock created a five-metre waterfall, which trapped migrating salmon below the slide.
 > <https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/fish/aquatic-habitat-management/fish-passage/big-bar-landslide-incident>
-
-
-## Data science branch shared values
-
-_TODO: Make this a "learn more" link?_
-
-<https://waterdata.usgs.gov/blog/fed-data-science-management/>
 
 
 ## :wrench: TODO

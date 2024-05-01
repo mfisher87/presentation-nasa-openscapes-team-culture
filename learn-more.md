@@ -14,3 +14,5 @@ safety and team culture!
   Katherine L. Phillips
 * [What Is Psychological Safety at Work? How Leaders Can Build Psychologically Safe Workplaces](https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/),
   Center for Creative Leadership
+* [Federal data science management](https://waterdata.usgs.gov/blog/fed-data-science-management/),
+  Jordan S. Read - the "Data Science Branch Shared Values" image is of extra interest!
