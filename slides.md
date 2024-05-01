@@ -243,14 +243,13 @@ $$🤪 \in 💼$$
 
 
 :::{.notes}
-* **Sometimes we punish risk-taking without knowing it.**
-* From "15 rules for communicating at GitHub", **"Overcompensate for tone" has been the
-  most useful lesson for me for modern online work communication.**
-* Text communication lacks tone. **Emojis and/or other media are important elements of
-  quality professional communication!**
+* **Sometimes we punish risk-taking without knowing it**, because text communication
+  doesn't effectively communicate tone.
+* **Emojis and/or other media are important elements of quality professional communication!**
 * _Advance_
-* **Is this how you feel?** Yet I think most feel intuitively that the words we use are
-  only a small part of understanding each other.
+* **Maybe you feel like this right now.**
+* Yet **I think most folks feel intuitively that the words we use are only a small part
+  of understanding each other.**
 * There is research supporting this, but its real-world applicability may be
   controversial.
     * The "7-38-55 rule": Albert Mehrabian (meh-RAY-bee-uhn): 7% words, 38% tone, 55%
