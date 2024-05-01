@@ -10,15 +10,17 @@ format:
     from: "markdown+emoji"
 title-slide-attributes:
   data-notes: |
+    These slides include links and references, so please find the link in the notes
+    document and in the chat.
+
     Introduce self. E.g. (scroll down):
 
-    * These slides include links and references, so please find the link in the notes
-      document and in the chat.
     * Research software engineer at National Snow and Ice Data Center
     * NASA Openscapes Mentor team member since mid-late 2023
-    * Excited about psychological safety because I've experienced both safe and unsafe
-      environments and seen how drastically it can impact team health and outcomes. I
-      want to move more personal experiences towards psychological safety.
+    * Excited about psychological safety because **I've been on teams of varying
+      effectiveness, and I wanted to understand what was going on and replicate
+      successess**. I found psychological safety to be an effective explanatory
+      layer.
     * I feel privileged to be teaching this lesson! I'm a beginner, but a lot of my work
       has been done for me; the content that follows was originally authored by Tara
       Robertson, a diversity, equity, and inclusion consultant who helped form this
