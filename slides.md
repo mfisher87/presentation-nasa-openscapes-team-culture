@@ -22,6 +22,8 @@ title-slide-attributes:
       Robertson, a diversity, equity, and inclusion consultant who helped form this
       program, and based on foundational work by Dr. Amy Edmondson, Professor of
       Leadership at Harvard Business School.
+    * There are bonus slides at the end including a psychological safety assessment and
+      more resources.
     * The final slide includes our references.
 ---
 
@@ -324,6 +326,8 @@ about not having all the answers themselves**.
 :::
 
 
+# :tada: Bonus slides
+
 ## Assess {.smaller}
 
 Use
@@ -344,8 +348,6 @@ Use
 You can use these statements to evaluate how you or your teammates feel about psychological safety of your team.
 :::
 
-
-# Bonus slides
 
 ## Learn more
 
