@@ -328,6 +328,24 @@ about not having all the answers themselves**.
 :::
 
 
+# Thank you! :heart:
+
+:::{.notes}
+Thanks for your time! We're going to continue on to do an exercise.
+:::
+
+
+## Thought exercise
+
+> What is something that you or someone has done on a team to make it psychologically
+> safe to speak up with a wildly creative idea or a problem that no one else saw?
+
+:::{.notes}
+Let's reflect now on our experiences or observations about what building a
+psychologically safe environment looks like.
+:::
+
+
 # :tada: Bonus slides
 
 ## Assess {.smaller}
@@ -358,16 +376,6 @@ additional resources.
 
 :::{.notes}
 We have too many links to comfortably fit on this slide.
-:::
-
-
-## Thought exercise
-
-> What is something that you or someone has done on a team to make it psychologically
-> safe to speak up with a wildly creative idea or a problem that no one else saw?
-
-:::{.notes}
-3 person breakout rooms, for 8 minutes. Write notes for your group in the shared doc.
 :::
 
 
