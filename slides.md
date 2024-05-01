@@ -10,8 +10,8 @@ format:
     from: "markdown+emoji"
 title-slide-attributes:
   data-notes: |
-    These slides include links and references, so please find the link in the notes
-    document and in the chat.
+    These slides include links and references, so please find the link to the slides in
+    the notes document and in the chat.
 
     Introduce self. E.g. (scroll down):
 
