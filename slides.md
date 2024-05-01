@@ -12,6 +12,8 @@ title-slide-attributes:
   data-notes: |
     Introduce self. E.g. (scroll down):
 
+    * These slides include links and references, so please find the link in the notes
+      document and in the chat.
     * Research software engineer at National Snow and Ice Data Center
     * NASA Openscapes Mentor team member since mid-late 2023
     * Excited about psychological safety because I've experienced both safe and unsafe
