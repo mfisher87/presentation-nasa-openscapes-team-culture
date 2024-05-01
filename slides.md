@@ -194,19 +194,14 @@ and more! (:wave: Sunny, if you're reading this)
 :::
 
 
-# :chart_with_upwards_trend: Actions to boost psychological safety on your team
+## :chart_with_upwards_trend: Actions to boost psychological safety on your team
 
----
-
-<br>
 <br>
 :no_entry_sign: **Avoid** behaviors that punish risk taking
 
 <br>
-<br>
 :white_check_mark: **Encourage** risk-taking
 
-<br>
 <br>
 :confounded: **Acknowledge** when we make mistakes
 
@@ -270,10 +265,14 @@ $$🤪 \in 💼$$
 :::
 
 
-# :white_check_mark: Encourage risk-taking
+## :white_check_mark: Encourage risk-taking
+
+<br>
 
 <!-- alex ignore execution -->
 * Framing work as a learning problem, _not_ an execution problem! [@edmondson_2014_ted]
+
+<br>
 
 * Model curiosity
     * [20 great open-ended questions](https://wherewithall.com/resources/20-Great-Open-Questions.pdf)
@@ -313,8 +312,9 @@ questions, that you acknowledge and want to hear about your own mistakes.
 :::
 
 
-# :confounded: Acknowledge our mistakes
+## :confounded: Acknowledge our mistakes
 
+<br>
 Ask yourself and your team:
 
 > What am I missing here?
@@ -325,6 +325,17 @@ Ask yourself and your team:
 Acknowledging we don't have all the answers **encourages our team to help and feel OK
 about not having all the answers themselves**.
 :::
+
+## :chart_with_upwards_trend: Actions to boost psychological safety on your team
+
+<br>
+:no_entry_sign: **Avoid** behaviors that punish risk taking
+
+<br>
+:white_check_mark: **Encourage** risk-taking
+
+<br>
+:confounded: **Acknowledge** when we make mistakes
 
 
 # Thank you! :heart:
