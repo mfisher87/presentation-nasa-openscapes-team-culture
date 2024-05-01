@@ -99,10 +99,8 @@ a question I think may be perceived as "dumb"**.
 Psychological safety is **not about walking on eggshells to avoid giving negative
 feedback.**
 
-It's about **feeling safe to speak up with a concern or wildly creative idea, or to give
-constructive criticism.** If psychological safety is not great on a team, they might
-fail to give such basic and critical constructive criticism as telling a presenter they
-forgot to share their screen!
+**Withholding feedback is not kind!** We want folks to feel safe giving
+constructive criticism so our team can be a success.
 :::
 
 
@@ -155,6 +153,8 @@ think a better word might be "natural" or "automatic".
 
 **Avoidant behaviors are natural in response to an environment perceived as dangerous.**
 Those behaviors can have **negative impacts** on our work and on people we care about.
+For example, a project could fail or underwhelm if certain questions or ideas aren't
+shared by a certain time.
 :::
 
 
