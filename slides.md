@@ -77,9 +77,9 @@ What is psychological safety?
 
 To me:
 
-Feeling confident that I **won't face punishment or humiliation by my peers** for taking
-interpersonal risks like **pointing out mistakes, sharing a wild idea, or asking a
-question I think may be perceived as "dumb"**.
+Feeling confident that I **won't face punishment or humiliation by my colleagues** for
+taking interpersonal risks like **pointing out mistakes, sharing a wild idea, or asking
+a question I think may be perceived as "dumb"**.
 :::
 
 
