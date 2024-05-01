@@ -86,9 +86,11 @@ question I think may be perceived as "dumb"**.
 ---
 
 <br/>
+<br/>
 
 ### :no_entry_sign: avoiding conflict or being "too nice"
 
+<br/>
 <br/>
 
 ### :white_check_mark: kind and honest communication
