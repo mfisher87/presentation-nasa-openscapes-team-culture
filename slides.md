@@ -151,7 +151,7 @@ forgot to share their screen!
 :::{.notes}
 <!-- alex ignore he-she -->
 In Dr. Edmondson's original presentation, she titled the right column with "easy", but I
-think a better word might be "natural" or "instinctual".
+think a better word might be "natural" or "automatic".
 
 **Avoidant behaviors are natural in response to an environment perceived as dangerous.**
 Those behaviors can have **negative impacts** on our work and on people we care about.
