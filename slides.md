@@ -420,13 +420,6 @@ _TODO_: This story?
 > <https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/fish/aquatic-habitat-management/fish-passage/big-bar-landslide-incident>
 
 
-## Data science branch shared values
-
-_TODO: Make this a "learn more" link?_
-
-<https://waterdata.usgs.gov/blog/fed-data-science-management/>
-
-
 ## :wrench: TODO
 
 * Leslie Miley - the Ketchup Test: <https://gimletmedia.com/shows/reply-all/76h54l>
